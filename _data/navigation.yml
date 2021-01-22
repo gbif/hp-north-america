@@ -18,6 +18,7 @@
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
   href: /news/
-  #Inserting the test page
-  - text: Hello from Sharon's world
-    href:/hello
+#Inserting the test page
+- text: Hello from Sharon's world
+  href: /hello/
+  
