@@ -3,5 +3,5 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  "rootPredicate": {"type": "in","key": "COUNTRY","values": ["US","CA","MX"]}}
+  "rootPredicate": {"type": "in","key": "COUNTRY","values": ["US","CA","MX"]}
 };
