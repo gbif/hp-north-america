@@ -1,24 +1,24 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
+- text: About Us
   href: /about
 - text: Data
   href: /data
-- text: Links
+- text: Documentation
   menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
+#   - text: Base theme demo
+#     href: https://hp-base-theme.gbif-staging.org/
+#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#   - text: "Docs" # Title for block of menu items
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
+  - text: North America region report
+    href: https://docs.google.com/document/d/1K5bHr1u6YZacFUHiWeu7YQIlBRgU5S7IB9HUhH6_s_o/edit?usp=sharing
+- text: FAQ
+  href: /faq
+- text: Event & News
   href: /news/
-#Inserting the test page
-- text: Hello from Sharon's world
-  href: /hello_sgrant
+
   
