@@ -6,15 +6,15 @@ var siteConfig = {
   rootPredicate: {
     type: 'or',
     predicates: [
-      { type: 'equals', key: 'gadm_gid', value: "USA" },
-      { type: 'equals', key: 'gadm_gid', value: "CAN" },
-      { type: 'equals', key: 'gadm_gid', value: "MEX" },
-      { type: 'equals', key: 'gadm_gid', value: "UMI" },
-      { type: 'equals', key: 'gadm_gid', value: "PRI" },
-      { type: 'equals', key: 'gadm_gid', value: "VIR" },
-      { type: 'equals', key: 'gadm_gid', value: "ASM" },
-      { type: 'equals', key: 'gadm_gid', value: "GUM" },
-      { type: 'equals', key: 'gadm_gid', value: "MNP" }
+      { type: 'equals', key: 'countryCode', value: "US" },
+      { type: 'equals', key: 'countryCode', value: "CA" },
+      { type: 'equals', key: 'countryCode', value: "MX" },
+      { type: 'equals', key: 'countryCode', value: "UM" },
+      { type: 'equals', key: 'countryCode', value: "PR" },
+      { type: 'equals', key: 'countryCode', value: "VI" },
+      { type: 'equals', key: 'countryCode', value: "AS" },
+      { type: 'equals', key: 'countryCode', value: "GU" },
+      { type: 'equals', key: 'countryCode', value: "MP" }
     ]
   }
 };
