@@ -14,11 +14,13 @@
     href: https://www.gbif.org/
   - text: Darwin Core
     href: https://dwc.tdwg.org/
+  - text: Audubon Core
+    href: https://www.tdwg.org/standards/ac/
   - text: North America region report
     href: https://docs.google.com/document/d/1K5bHr1u6YZacFUHiWeu7YQIlBRgU5S7IB9HUhH6_s_o/preview
 - text: FAQ
   href: /faq
 - text: Events & News
-  href: /news/
+  href: /news
 
   
