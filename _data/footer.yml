@@ -5,22 +5,20 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: GBIF North America
+      href: https://www.gbif.org/the-gbif-network/north-america
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      This project is open source.
 
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
-    connectIcons: true
+    - text: Help Desk
+      href: gbif.na.helpdesk@gmail.com
+    - text: Slack
+      href: https://gbif-north-america.slack.com
+    connectIcons: false
 
   # EXAMPLE
   #- name: Group name
