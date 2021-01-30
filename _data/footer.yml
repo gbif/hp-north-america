@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     links:
-    - text: GBIF North America
+    - text: GBIF North America Nodes
       href: https://www.gbif.org/the-gbif-network/north-america
 
   - name: Code
@@ -15,7 +15,7 @@ columns:
   - name: Contact
     description: | # Can be Markdown
     - text: Help Desk
-      href: gbif.na.helpdesk@gmail.com
+      href: mailto:gbif.na.helpdesk@gmail.com
     - text: Slack
       href: https://gbif-north-america.slack.com
     connectIcons: false
