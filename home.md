@@ -1,8 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+title: GBIF North America Region
+description: The North America Region strives to bring together representatives from GBIF Nodes, 
+  IPT installations, and other organizations/stakeholders to inspire collaboration and 
+  discussion of shared goals, challenges, and opportunities.
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
@@ -15,16 +17,11 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
+This portal provides resources for stakeholders of the geographic North America region, 
+including communication about our meetings and collective progress. This portal also 
+facilitates exploration of the biodiversity data from GBIF on a regional scale.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
+If you need assistance with applying data standards, sharing your data, or how to access 
+GBIF North America data, you can reach out to the GBIF North America helpdesk 
+(contact info in footer).
 
