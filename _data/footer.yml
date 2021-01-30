@@ -14,8 +14,8 @@ columns:
 
   - name: Contact
     description: | # Can be Markdown
-    * <gbif.na.helpdesk@gmail.com>
-    * <https://gbif-north-america.slack.com>
+    * Help Desk
+    * Slack
     connectIcons: false
 
   # EXAMPLE
