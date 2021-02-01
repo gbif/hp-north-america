@@ -16,7 +16,7 @@ height: 70vh
 
 To meet those goals, the North America Regional Steering Group has implemented quarterly regional meetings and has created a [North America Slack Workspace](https://app.slack.com/client/T012ZB91953/G0185BQHTCH).
 
-If you need assistance with applying data standards, sharing your data, or how to access GBIF North America data, you can reach out to the GBIF North America helpdesk at: gbif.na.helpdesk@gmail.com
+If you need assistance with applying data standards, sharing your data, or how to access GBIF North America data, you can reach out to the GBIF North America helpdesk at: <gbif.na.helpdesk@gmail.com>
 
 [Mentors list](https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers)
 
