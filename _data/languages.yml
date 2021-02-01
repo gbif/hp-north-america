@@ -1,5 +1,12 @@
 en:
   label: English
   icon:  # optional
+es:
+  label: Español
+  icon:  # optional
+fr:
+  label: Français
+  icon:  # optional
 da:
   label: Dansk
+  icon:  # optional
