@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: À Propos
-  href: /apropos
+  href: /fr/apropos
 - text: Data
-  href: /data
+  href: /fr/data
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
@@ -19,6 +19,6 @@
   - text: Rapport de la région Amérique du Nord
     href: https://docs.google.com/document/d/1K5bHr1u6YZacFUHiWeu7YQIlBRgU5S7IB9HUhH6_s_o/preview
 - text: FAQ
-  href: /faq
+  href: /fr/faq
 - text: Évènement et Nouvelles
-  href: /news/
+  href: /fr/news/

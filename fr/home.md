@@ -12,7 +12,7 @@ cta:
     isPrimary: true
   - text: À Propos
     href: /fr/apropos
-permalink: /
+permalink: /fr
 ---
 
 Ce portail fournit des ressources aux acteurs de la biodiversité pour la région géographique de l'Amérique du Nord, incluant des communications à propos de nos rencontres et des avancées collectives. Il facilite également l'exploration des données de biodiversité provenant de GBIF pour la région.
