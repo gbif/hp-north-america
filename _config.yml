@@ -104,6 +104,6 @@ defaults:
       lang: da
   -
     scope:
-      path: ""
+      path: "fr/"
     values:
       lang: fr
