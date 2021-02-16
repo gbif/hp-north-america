@@ -1,7 +1,8 @@
 ---
-lang-ref: about
 title: The North America Region
 description: The North America Region strives to bring together representatives from GBIF Nodes, IPT installations, and other organizations/stakeholders to inspire collaboration and discussion of shared goals, challenges, and opportunities.
+lang: en
+lang-ref: about
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
@@ -16,8 +17,21 @@ height: 70vh
 
 To meet those goals, the North America Regional Steering Group has implemented quarterly regional meetings and has created a [North America Slack Workspace](https://app.slack.com/client/T012ZB91953/G0185BQHTCH).
 
-If you need assistance with applying data standards, sharing your data, or how to access GBIF North America data, you can reach out to the GBIF North America helpdesk at: <gbif.na.helpdesk@gmail.com>
+If you need assistance with applying data standards, sharing your data, or how to access GBIF North America data, you can reach out to the [GBIF North America helpdesk](mailto:gbif.na.helpdesk@gmail.com).
 
-[Mentors list](https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers)
+## Portal Data
 
-[Biodiversity Open Data Ambassadors list](https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors)
+This portal facilitates exploration of North American biodiversity data on a regional scale. The data presented come directly from GBIF and have been filtered for country-coordinate mismatches. The following countries are represented in the portal data based on geographic and political considerations:
+* [United States](https://www.gbif.org/country/US/summary) and its territories: [UM](https://www.gbif.org/country/UM/summary), [PR](https://www.gbif.org/country/PR/summary), [VI](https://www.gbif.org/country/VI/summary), [AS](https://www.gbif.org/country/AS/summary), [GU](https://www.gbif.org/country/GU/summary), [MP](https://www.gbif.org/country/MP/summary)
+* [Canada](https://www.gbif.org/country/CA/summary)
+* [Mexico](https://www.gbif.org/country/MX/summary)
+
+## Collaborators
+
+Representatives from the following nodes and organizations are collaborating on the contents of this hosted portal:
+* [United States](https://www.gbif.org/country/US)
+* [Mexico](https://www.gbif.org/country/MX)
+* [Canadensys](https://www.gbif.org/node/4db9cfd2-1191-4b9d-b579-0b68ceabd968)
+* [Vertnet](https://www.gbif.org/node/d205def7-82c3-472a-be4b-31d11dcd51fd)
+* [iDigBio](https://www.gbif.org/node/f9332bd7-7435-4741-b45a-5fe2887533ec)
+* [Field Museum](https://www.gbif.org/publisher/7b8aff00-a9f8-11d8-944b-b8a03c50a862)
