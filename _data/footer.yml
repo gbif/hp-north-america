@@ -7,6 +7,8 @@ columns:
     links:
     - text: GBIF North America Nodes
       href: https://www.gbif.org/the-gbif-network/north-america
+    - text: Portal Collaborators
+      href: https://hp-north-america.gbif-staging.org/about#collaborators
 
   - name: Code
     description: | # Can be Markdown
