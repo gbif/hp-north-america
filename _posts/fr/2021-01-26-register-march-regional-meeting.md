@@ -2,8 +2,8 @@
 title:  "GBIF North America Quarterly Regional Meeting - March 2021 - Register!"
 date:   2021-01-26 01:22:07 +0000
 categories: ["Regional Meeting"]
-lang: en
-lang-ref: register-march-regional-meeting
+lang: fr
+lang-ref: inscrire-reunion-reionale-de-mars  # Google Translate
 background: /assets/images/GBIF-NA-2015-full.jpg
 ---
 
