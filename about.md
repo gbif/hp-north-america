@@ -32,6 +32,6 @@ Representatives from the following nodes and organizations are collaborating on 
 * [United States](https://www.gbif.org/country/US)
 * [Mexico](https://www.gbif.org/country/MX)
 * [Canadensys](https://www.gbif.org/node/4db9cfd2-1191-4b9d-b579-0b68ceabd968)
-* [Vertnet](https://www.gbif.org/node/d205def7-82c3-472a-be4b-31d11dcd51fd)
+* [VertNet](https://www.gbif.org/node/d205def7-82c3-472a-be4b-31d11dcd51fd)
 * [iDigBio](https://www.gbif.org/node/f9332bd7-7435-4741-b45a-5fe2887533ec)
 * [Field Museum](https://www.gbif.org/publisher/7b8aff00-a9f8-11d8-944b-b8a03c50a862)
