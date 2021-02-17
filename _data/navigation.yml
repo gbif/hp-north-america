@@ -3,7 +3,7 @@
 - text: About Us
   href: /about
 - text: Data
-  href: /data
+  href: /data?view=map
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
