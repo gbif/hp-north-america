@@ -7,6 +7,8 @@ columns:
     links:
     - text: Noeuds GBIF Amérique du Nord
       href: https://www.gbif.org/the-gbif-network/north-america
+    - text: Collaborateurs du Portail
+      href: https://hp-north-america.gbif-staging.org/about#collaborators
 
   - name: Code
     description: | # Can be Markdown
