@@ -4,7 +4,7 @@ date:   2021-01-26 01:22:07 +0000
 categories: ["Regional Meeting"]
 lang: fr
 lang-ref: inscription-reunion-regionale-de-mars
-background: /assets/images/GBIF-NA-2015-full.jpg
+background: /assets/images/GBIF-2015-NA-3w2h.svg
 ---
 
 RÉSERVEZ LA DATE pour notre prochaine rencontre trimestrielle de la région GBIF Amérique du Nord :
