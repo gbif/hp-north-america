@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Bienvenue à Jekyll!"
 date:   2020-09-25 21:37:12 +0200
 categories: jekyll update
 lang: fr
