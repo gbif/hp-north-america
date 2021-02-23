@@ -2,6 +2,7 @@
 title:  "Getting started for authors"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
+lang: en
 lang-ref: for authors
 background: http://via.placeholder.com/600x300
 ---
