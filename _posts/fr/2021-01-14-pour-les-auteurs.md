@@ -1,5 +1,5 @@
 ---
-title:  "Getting started for authors"
+title:  "Premiers pas pour les auteurs"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
 lang: fr
