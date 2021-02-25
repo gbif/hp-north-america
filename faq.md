@@ -18,11 +18,15 @@ height: 70vh
 > * *[Become a publisher](https://www.gbif.org/become-a-publisher)* -- "Organizations wishing to share data through GBIF can register here to request endorsement as a data publisher."
 > * *[Attend a community webinar](https://www.gbif.org/webinars)*-- "The goal of the community webinars is to improve sustained communication and interaction between the Secretariat and the broader GBIF community, particularly the GBIF nodes."
 
-#### What are the data standard used to share biodiversity data?
-> [Darwin Core](https://dwc.tdwg.org/) and [Audubon Core](https://www.tdwg.org/standards/ac/) are the standards used to share data with aggregators.
+#### What are the data standards used to share biodiversity data?
+> * "The [Darwin Core Standard](http://rs.tdwg.org/dwc) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources." For more information, please see: <https://www.gbif.org/darwin-core> 
+> * "The [Audubon Core](http://rs.tdwg.org/ac/) is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections." For more information, please see: <https://tools.gbif.org/dwca-validator/extension.do?id=http://rs.tdwg.org/ac/terms/Multimedia>
 
 #### Where can I find biodiversity data for the North America region?
-> Click the [Data](/data) menu item to browse data from [GBIF](https://gbif.org)
+> The [Data](/data) menu item on this portal facilitates exploration of North American biodiversity data on a regional scale. The data presented come directly from [GBIF](https://gbif.org) and have been filtered for [country-coordinate mismatches](https://data-blog.gbif.org/post/issues-and-flags/). The following countries are represented in the portal data based on geographic and political considerations:
+> * [United States](https://www.gbif.org/country/US/summary) and its territories: [UM](https://www.gbif.org/country/UM/summary), [PR](https://www.gbif.org/country/PR/summary), [VI](https://www.gbif.org/country/VI/summary), [AS](https://www.gbif.org/country/AS/summary), [GU](https://www.gbif.org/country/GU/summary), [MP](https://www.gbif.org/country/MP/summary)
+> * [Canada](https://www.gbif.org/country/CA/summary)
+> * [Mexico](https://www.gbif.org/country/MX/summary)
 
 #### How can I share biodiveristy data with GBIF?
-> The most common way to share data is via the [Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt).
+> The most common way to share data is via the [Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt). You can learn more about becoming a data publisher here: <https://www.gbif.org/become-a-publisher>
