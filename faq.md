@@ -16,7 +16,8 @@ height: 70vh
 > There are many ways to get involved with GBIF, including:
 > * *[Become a member](https://www.gbif.org/become-member)* -- "GBIF's national and organizational members—formally known as Participants—represent governments and institutions from around the world. Our network also includes hundreds of institutions that publish biodiversity data along with volunteers who participate in the growing number of citizen science programmes around the world."
 > * *[Become a publisher](https://www.gbif.org/become-a-publisher)* -- "Organizations wishing to share data through GBIF can register here to request endorsement as a data publisher."
-> * *[Attend a community webinar](https://www.gbif.org/webinars)*-- "The goal of the community webinars is to improve sustained communication and interaction between the Secretariat and the broader GBIF community, particularly the GBIF nodes."
+> * *[Attend a community webinar](https://www.gbif.org/webinars)* -- "The goal of the community webinars is to improve sustained communication and interaction between the Secretariat and the broader GBIF community, particularly the GBIF nodes."
+> * *[Attend a North America quarterly regional meeting](/news)* -- The North America region has established a quarterly meeting schedule to promote enhanced collaboration and communication across the region.
 
 #### What are the data standards used to share biodiversity data?
 > * "The [Darwin Core Standard](http://rs.tdwg.org/dwc) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources." For more information, please see: <https://www.gbif.org/darwin-core> 
