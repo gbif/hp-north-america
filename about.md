@@ -21,7 +21,7 @@ If you need assistance with applying data standards, sharing your data, or how t
 
 ## Portal Data
 
-This portal facilitates exploration of North American biodiversity data on a regional scale. The data presented come directly from GBIF and have been filtered for country-coordinate mismatches. The following countries are represented in the portal data based on geographic and political considerations:
+This portal facilitates exploration of North American biodiversity data on a regional scale. The [data presented](/data) come directly from [gbif.org](https://www.gbif.org) and have been filtered for [country-coordinate mismatches](https://data-blog.gbif.org/post/issues-and-flags/). The following countries are represented in the portal data based on both geographic and political considerations:
 * [United States](https://www.gbif.org/country/US/summary) and its territories: [UM](https://www.gbif.org/country/UM/summary), [PR](https://www.gbif.org/country/PR/summary), [VI](https://www.gbif.org/country/VI/summary), [AS](https://www.gbif.org/country/AS/summary), [GU](https://www.gbif.org/country/GU/summary), [MP](https://www.gbif.org/country/MP/summary)
 * [Canada](https://www.gbif.org/country/CA/summary)
 * [Mexico](https://www.gbif.org/country/MX/summary)
