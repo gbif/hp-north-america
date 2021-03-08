@@ -15,7 +15,7 @@ columns:
       [Cree un nuevo problema de GitHub](https://github.com/gbif/hp-north-america/issues/new) para solicitar una función, informar un error o proporcionar comentarios.
   - name: Contacto
     description: | # Can be Markdown
-      * [Mesa de ayuda](mailto:gbif.na.helpdesk@gmail.com)
+      * [El servicio de ayuda](mailto:gbif.na.helpdesk@gmail.com)
       * [Slack](https://gbif-north-america.slack.com)
     connectIcons: false
 
