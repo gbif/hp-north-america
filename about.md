@@ -3,9 +3,9 @@ title: The North America Region
 description: The North America Region strives to bring together representatives from GBIF Nodes, IPT installations, and other organizations/stakeholders to inspire collaboration and discussion of shared goals, challenges, and opportunities.
 lang: en
 lang-ref: about
-background: /assets/images/moss.jpg
+background: /assets/images/https_observation_org_photos_24593338.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/2842301073)
 height: 70vh
 ---
 
