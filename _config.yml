@@ -107,3 +107,9 @@ defaults:
       path: "fr/"
     values:
       lang: fr
+  -
+    scope:
+      path: "es/"
+    values:
+      lang: es
+ 
