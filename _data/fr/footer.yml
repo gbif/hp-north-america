@@ -10,9 +10,9 @@ columns:
     - text: Collaborateurs du Portail
       href: https://hp-north-america.gbif-staging.org/about#collaborators
 
-  - name: Code
+  - name: Commentaires
     description: | # Can be Markdown
-      Ce projet est open source.
+      [Créez un nouveau problème GitHub](https://github.com/gbif/hp-north-america/issues/new) pour demander une fonctionnalité, signaler un bogue ou fournir des commentaires.
 
   - name: Contact
     description: | # Can be Markdown
