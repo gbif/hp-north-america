@@ -1,4 +1,5 @@
 ---
+lang: fr
 lang-ref: archive
 layout: archive
 title: Nouvelles
