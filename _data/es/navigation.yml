@@ -1,0 +1,24 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Acerca de nosotros
+  href: /es/acerca
+- text: Datos
+  href: /es/datos
+- text: Documentación
+  menu: # Dropdown menu (one level deep only)
+#   - text: Base theme demo
+#     href: https://hp-base-theme.gbif-staging.org/
+#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#   - text: "Docs" # Title for block of menu items
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
+  - text: Audubon Core
+    href: https://www.tdwg.org/standards/ac/
+  - text: Reporte de la región de América del Norte
+    href: https://docs.google.com/document/d/1K5bHr1u6YZacFUHiWeu7YQIlBRgU5S7IB9HUhH6_s_o/preview
+- text: FAQ
+  href: /es/faq
+- text: Eventos y noticias
+  href: /es/noticias/
