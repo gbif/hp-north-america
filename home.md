@@ -1,4 +1,5 @@
 ---
+lang: en
 lang-ref: home
 layout: home
 title: GBIF North America Region
