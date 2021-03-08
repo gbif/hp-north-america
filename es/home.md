@@ -9,10 +9,10 @@ imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
   - text: Empiece a explorar
-    href: /es/data
+    href: /es/datos
     isPrimary: true
   - text: Acerca de nosotros
-    href: /es/about
+    href: /es/acerca
 permalink: /es
 ---
 
