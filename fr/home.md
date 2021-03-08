@@ -1,4 +1,5 @@
 ---
+lang: fr
 lang-ref: home
 layout: home
 title: GBIF Amérique du Nord
