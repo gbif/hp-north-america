@@ -33,7 +33,7 @@ height: 70vh
 > * [Canada](https://www.gbif.org/country/CA/summary)
 > * [Mexico](https://www.gbif.org/country/MX/summary)
 > 
-> Trends in data availability on the GBIF network, 2008 to 2021, for the [GBIF North America region](https://www.gbif.org/the-gbif-network/north-america) are available here: https://www.gbif.org/analytics/region/NORTH_AMERICA
+> Click [here](https://www.gbif.org/analytics/region/NORTH_AMERICA) to view trends in data availability on the GBIF network, 2008 to 2021, for the [GBIF North America region](https://www.gbif.org/the-gbif-network/north-america).
 
 #### How can I share biodiveristy data with GBIF?
 
