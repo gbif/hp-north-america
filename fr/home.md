@@ -4,9 +4,9 @@ lang-ref: home
 layout: home
 title: GBIF Amérique du Nord
 description: La région de l'Amérique du Nord à pour objectif de connecter les représentants des noeuds GBIF, des installations IPT, et de toutes les autres organisations et acteurs afin de favoriser les collaborations et les discussions autour de buts, défis et opportunités en commun.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F62326418%2Foriginal.jpeg%3F1582845556
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  *Opuntia ficus-indica* (L.) Mill. Photo by CarinaCR via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
   - text: Explorez les données
     href: /fr/data
