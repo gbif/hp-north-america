@@ -1,4 +1,5 @@
 ---
+lang: en
 lang-ref: archive
 layout: archive
 title: News

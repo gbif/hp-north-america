@@ -3,20 +3,19 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partenaires
+  - name: Socios
     links:
-    - text: Noeuds GBIF Amérique du Nord
+    - text: Nodos GBIF Norteamérica
       href: https://www.gbif.org/the-gbif-network/north-america
-    - text: Collaborateurs du Portail
+    - text: Colaboradores del portal
       href: https://hp-north-america.gbif-staging.org/about#collaborators
 
-  - name: Commentaires
+  - name: Comentarios
     description: | # Can be Markdown
-      [Créez un nouveau problème GitHub](https://github.com/gbif/hp-north-america/issues/new) pour demander une fonctionnalité, signaler un bogue ou fournir des commentaires.
-
-  - name: Contact
+      [Cree un nuevo problema de GitHub](https://github.com/gbif/hp-north-america/issues/new) para solicitar una función, informar un error o proporcionar comentarios.
+  - name: Contacto
     description: | # Can be Markdown
-      * [Help Desk](mailto:gbif.na.helpdesk@gmail.com)
+      * [El servicio de ayuda](mailto:gbif.na.helpdesk@gmail.com)
       * [Slack](https://gbif-north-america.slack.com)
     connectIcons: false
 

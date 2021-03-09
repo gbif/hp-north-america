@@ -1,10 +1,10 @@
 ---
-lang: fr
+lang: es
 lang-ref: archive
 layout: archive
-title: Nouvelles
-description: Nouvelles et évènements
-permalink: /fr/nouvelles/
+title: Noticias
+description: Eventos y noticias
+permalink: /es/noticias/
 ---
 {% comment %}
   No content here. The layout will insert a card for each post in your _posts folder
