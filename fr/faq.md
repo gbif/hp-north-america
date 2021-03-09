@@ -3,9 +3,9 @@ lang-ref: faq
 lang: fr
 title: Questions Fréquemment Posées
 description: Cette page fournie des réponses aux questions fréquemment posées à propos des standards de données de biodiversité, du partage des données, ainsi que sur la manière d'accéder aux données de biodiversité sur l'Amérique du Nord.
-background: /assets/images/moss.jpg
+background: /assets/images/https_static_inaturalist_org_photos_111359906_original_1611858020.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by Doug D. via [gbif.org](https://www.gbif.org/occurrence/3031762993)
 height: 70vh
 permalink: /fr/faq
 ---
