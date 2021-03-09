@@ -8,7 +8,7 @@ description: The North America Region strives to bring together representatives 
   discussion of shared goals, challenges, and opportunities.
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F62326418%2Foriginal.jpeg%3F1582845556
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  *Opuntia ficus-indica* (L.) Mill. Photo by CarinaCR via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
   - text: Start exploring
     href: /data
