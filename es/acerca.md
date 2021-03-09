@@ -5,7 +5,7 @@ lang: es
 lang-ref: about
 background: /assets/images/https_observation_org_photos_24593338.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/2842301073)
+  Photo by Simon Feys via [gbif.org](https://www.gbif.org/occurrence/2842301073)
 height: 70vh
 ---
 
