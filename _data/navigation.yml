@@ -16,8 +16,6 @@
     href: https://dwc.tdwg.org/
   - text: Audubon Core
     href: https://www.tdwg.org/standards/ac/
-  - text: North America region report
-    href: https://docs.google.com/document/d/1K5bHr1u6YZacFUHiWeu7YQIlBRgU5S7IB9HUhH6_s_o/preview
 - text: Help
   menu: # Dropdown menu (one level deep only)
   - text: GBIF NA Regional Help Desk
