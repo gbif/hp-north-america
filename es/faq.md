@@ -28,7 +28,7 @@ height: 70vh
 
 #### ¿Dónde puedo encontrar datos de biodiversidad para la región de América del Norte?
   
-> Este portal facilita la exploración de los datos de biodiversidad de América del Norte en una escala regional. [Los datos que se presentan](/es/data) provienen directamente de [GBIF](https://www.gbif.org) y se filtran los registros cuyas [coordenadas no coinciden con los países](https://data-blog.gbif.org/post/issues-and-flags/) de la región. Los países que están representados en el portal de acuerdo a consideraciones geopolíticas son:
+> Este portal facilita la exploración de los datos de biodiversidad de América del Norte en una escala regional. [Los datos que se presentan](/es/datos) provienen directamente de [GBIF](https://www.gbif.org) y se filtran los registros cuyas [coordenadas no coinciden con los países](https://data-blog.gbif.org/post/issues-and-flags/) de la región. Los países que están representados en el portal de acuerdo a consideraciones geopolíticas son:
 > * [Estados Unidos](https://www.gbif.org/country/US/summary) y sus territorios: [Islas menores](https://www.gbif.org/country/UM/summary), [Puerto Rico](https://www.gbif.org/country/PR/summary), [Islas Vírgenes](https://www.gbif.org/country/VI/summary), [Samoa Americana](https://www.gbif.org/country/AS/summary), [Guam](https://www.gbif.org/country/GU/summary), [Islas Marianas](https://www.gbif.org/country/MP/summary)
 > * [Canadá](https://www.gbif.org/country/CA/summary)
 > * [México](https://www.gbif.org/country/MX/summary)
