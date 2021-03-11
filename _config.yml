@@ -107,7 +107,7 @@ defaults:
       path: "fr/"
     values:
       lang: fr 
--
+  -
     scope:
       path: "_posts/fr/"
     values:
