@@ -2,7 +2,7 @@
 title:  "Seminario web de la comunidad de GBIF: febrero de 2021"
 date:   2021-02-25 14:00:00 +0000
 categories: ["Webinar"]
-lang: en
+lang: es
 lang-ref: GBIF-webinar-Feb-2021
 background: /assets/images/GBIF-2015.png
 ---
