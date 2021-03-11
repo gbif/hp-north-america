@@ -7,6 +7,7 @@ description: La région de l'Amérique du Nord à pour objectif de connecter les
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F62326418%2Foriginal.jpeg%3F1582845556
 imageLicense: |
   *Opuntia ficus-indica* (L.) Mill. Photo by CarinaCR via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+height: 70vh
 cta:
   - text: Explorez les données
     href: /fr/data
