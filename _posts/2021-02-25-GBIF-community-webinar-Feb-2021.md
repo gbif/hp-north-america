@@ -17,7 +17,7 @@ The speakers covered the following topics:
 * Developments in the GBIF hosted portals pilot phase: Mélianie Raymond
 * Updates on IUCN collaboration: Andrew Rodrigues
 * Digital documentation: Laura Russell
-* News ad notes: Kyle Copas
+* News and notes: Kyle Copas
 * Q&A
 
 [GBIF community webinars](https://www.gbif.org/webinars) aim to improve sustained communication and interaction between the Secretariat and the broader GBIF community, 
