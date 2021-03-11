@@ -1,4 +1,5 @@
 ---
+layout: heroImage
 title: À Propos
 description: La région de l'Amérique du Nord à pour objectif de connecter les représentants des noeuds GBIF, des installations IPT, et de toutes les autres organisations et acteurs afin de favoriser les collaborations et les discussions autour de buts, défis et opportunités en commun.
 lang: fr
