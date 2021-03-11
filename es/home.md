@@ -7,6 +7,7 @@ description: La región de América del Norte reúne a los representantes de Nod
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F62326418%2Foriginal.jpeg%3F1582845556
 imageLicense: |
   *Opuntia ficus-indica* (L.) Mill. Photo by CarinaCR via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+height: 75vh
 cta:
   - text: Empiece a explorar
     href: /es/datos
