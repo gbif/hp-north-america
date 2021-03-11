@@ -118,7 +118,7 @@ defaults:
    -
     scope:
       path: "_posts/fr/" # an empty string here means all files in the project
-      typ: "posts"
+      type: "posts"
     values:
       layout: "post"
       permalink: "/fr/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
