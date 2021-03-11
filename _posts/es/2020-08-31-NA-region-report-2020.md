@@ -2,7 +2,7 @@
 title:  "Informe de la región de América del Norte 2020"
 date:   2020-08-31 04:00:00 +0000
 categories: ["Report"]
-lang: en
+lang: es
 lang-ref: NA-region-report-2020
 background: /assets/images/GBIF-2015-NA-3w2h.svg
 ---
