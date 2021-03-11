@@ -92,6 +92,7 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      lang: en
   -
     scope:
       path: ""
@@ -108,17 +109,12 @@ defaults:
     values:
       lang: fr 
   -
-    scope:
-      path: "_posts/"
-    values:
-      lang: en
-  -
-    scope:
-      path: "_posts/es/"
+    scope: "_posts"
+      path: "_post/es/"
     values:
       lang: es
   -
-    scope:
-      path: "_posts/fr/"
+    scope: "_posts"
+      path: "_post/fr/"
     values:
       lang: fr
