@@ -1,7 +1,7 @@
 ---
 title:  "GBIF North America Quarterly Meeting - March 2021"
 date:   2021-03-15 14:00:00 -0500
-categories: ["Webinar"]
+categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Quarterly-March2021
 background: /assets/images/icosahedron_Pieris_marginalis_March2020.jpeg
