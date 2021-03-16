@@ -6,9 +6,8 @@ title: GBIF North America Region
 description: The North America Region strives to bring together representatives from GBIF Nodes, 
   IPT installations, and other organizations/stakeholders to inspire collaboration and 
   discussion of shared goals, challenges, and opportunities.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F62326418%2Foriginal.jpeg%3F1582845556
-imageLicense: |
-  *Opuntia ficus-indica* (L.) Mill. Photo by CarinaCR via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+background: "{{site.data.images.myImage.src}}"
+imageLicense: "{{site.data.images.myImage.caption}}"
 height: 75vh
 cta:
   - text: Start exploring
