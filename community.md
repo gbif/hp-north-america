@@ -10,8 +10,8 @@ height: 70vh
 
 ## Glossary
 **Node**: a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
-**Publisher**: organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher). 
-**Network**: a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data. 
+**Publisher**: organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
+**Network**: a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data.    
 **Installation**: a method for sharing data to GBIF, commonly an Integrated Publishing Toolkit, that is managed by an organization.    
    
 
