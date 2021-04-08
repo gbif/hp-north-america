@@ -3,9 +3,8 @@ lang: en
 lang-ref: community
 title: Community
 description: The North America community is comprised of nodes, publishers, installations, and networks working together to manage and use biodiversity data.
-background: /assets/images/icosahedron_Pieris_marginalis_March2020.jpeg
-imageLicense: |
-    Photo by icosahedron via [gbif.org](https://www.gbif.org/occurrence/2576249869)
+background: "{{site.data.images.MarginedWhite.src}}"
+imageLicense: "{{site.data.images.MarginedWhite.caption}}"
 height: 70vh
 ---
 
