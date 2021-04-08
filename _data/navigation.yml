@@ -2,8 +2,14 @@
 
 - text: About Us
   href: /about
+- text: Community
+  href: /community
 - text: Data
   href: /data?view=map
+- text: FAQ
+  href: /faq
+- text: Events & News
+  href: /news/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
@@ -24,7 +30,3 @@
     href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
   - text: GBIF Biodiversity Open Data Ambassadors
     href: https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors
-- text: FAQ
-  href: /faq
-- text: Events & News
-  href: /news/
