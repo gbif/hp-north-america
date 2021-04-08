@@ -4,9 +4,8 @@ date:   2021-03-15 14:00:00 -0500
 categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Quarterly-March2021
-background: /assets/images/icosahedron_Pieris_marginalis_March2020.jpeg
-imageLicense: |
-    Photo by icosahedron via [gbif.org](https://www.gbif.org/occurrence/2576249869)
+background: "{{site.data.images.MarginedWhite.src}}"
+imageLicense: "{{site.data.images.MarginedWhite.caption}}"
 ---
 
 The GBIF North America Steering Group hosted a quarterly meeting on March 11, 2021, with the aim of fostering communication and collaboration across the region. 
