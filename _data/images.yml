@@ -1,6 +1,6 @@
 AmericanBeaver:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111359906/original.jpg?1611858020
-  caption: "[*Castor canadensis* Kuhl, 1820](https://www.gbif.org/occurrence/3031762993) United States of America by Doug D. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+  caption: "[*Castor canadensis* Kuhl, 1820](https://www.gbif.org/occurrence/3031762993) observed in United States of America by Doug D. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 AmericanBison:
   src: https://observation.org/photos/24593338.jpg
@@ -12,5 +12,5 @@ BarbaryFig:
 
 MarginedWhite:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/62634519/original.jpeg?1583199830
-  caption: "[*Castor canadensis* Kuhl, 1820](https://www.gbif.org/occurrence/2576249869) United States of America by icosahedron (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+  caption: "[*Castor canadensis* Kuhl, 1820](https://www.gbif.org/occurrence/2576249869) observed in United States of America by icosahedron (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
 
