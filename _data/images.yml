@@ -19,3 +19,6 @@ MarginedWhite:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/62634519/original.jpeg?1583199830
   caption: "[*Pieris marginalis* Scudder, 1861](https://www.gbif.org/occurrence/2576249869) observed in United States of America by icosahedron (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
 
+ShortBeakedCommonDolphin:
+  src: https://observation.org/photos/12362160.jpg
+  caption: "[*Delphinus delphis* Linnaeus, 1758](https://www.gbif.org/occurrence/2839761555) observed in United States of America by Kasper Hendriks (licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/))"
