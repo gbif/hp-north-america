@@ -1,5 +1,4 @@
 ---
-klass: "about"
 lang: en
 lang-ref: community
 title: Community
@@ -7,6 +6,7 @@ description: The North America community is comprised of nodes, publishers, inst
 background: "{{site.data.images.ShortBeakedCommonDolphin.src}}"
 imageLicense: "{{site.data.images.ShortBeakedCommonDolphin.caption}}"
 height: 70vh
+layout: compose
 ---
 
 ## Glossary
