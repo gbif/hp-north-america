@@ -3,7 +3,7 @@ lang: en
 lang-ref: community
 title: Community
 description: The North America community is comprised of nodes, publishers, installations, and networks working together to manage and use biodiversity data.
-background: "{{site.data.images.ShortBeakedCommonDolphin.src}}"{ overflow: hidden; bottom: 0; left: 0; height: 100%; top: -10%; right: 0; }
+background: "{{site.data.images.ShortBeakedCommonDolphin.src}}{ overflow: hidden; bottom: 0; left: 0; height: 100%; top: -10%; right: 0; }"
 imageLicense: "{{site.data.images.ShortBeakedCommonDolphin.caption}}"
 height: 70vh
 ---
