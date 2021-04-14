@@ -37,7 +37,7 @@ Representatives from the following nodes and organizations are collaborating on 
 * [Field Museum](https://www.gbif.org/publisher/7b8aff00-a9f8-11d8-944b-b8a03c50a862)
 
 ## Steering Group Members
-* [David Jennings](https://www.idigbio.org/contact/David_Jennings), Regional Representative North America, iDigBio Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-0520-6983)
+* [David Jennings](https://www.idigbio.org/contact/David_Jennings), Regional Representative North America, iDigBio Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-0520-6983) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/jenningsdt/)
 * Carole Sinou, Deputy Regional Representative North America, Canadensys Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6718-6669)
 * [Abby Benson](https://www.usgs.gov/staff-profiles/abby-benson?qt-staff_profile_science_products=3#qt-staff_profile_science_products), Steering Group Member, United States Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4391-107X)
 * Dave Bloom, Steering Group Member, Vertnet Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
