@@ -10,15 +10,15 @@ height: 50vh
 ---
 
 ## Glossary
-[**Node**](#Nodes): a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
+[**Node**](#nodes): a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
 
-[**Publisher**](#Publisher): organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
+[**Publisher**](#publishers): organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
 
-[**Network**](#Network): a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data. 
+[**Network**](#networks): a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data. 
 
-[**Installation**](#Installation): a method for publishing data to GBIF, commonly an Integrated Publishing Toolkit (IPT) but also includes Symbiota and other methods, that is managed by an organization.    
+[**Installation**](#installations): a method for publishing data to GBIF, commonly an Integrated Publishing Toolkit (IPT) but also includes Symbiota and other methods, that is managed by an organization.    
 
-[**Collections Management System (CMS)**](#Collections Management Systems): is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
+[**Collections Management System (CMS)**](#cms): is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
 ----------------------
 Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
@@ -27,7 +27,7 @@ Did we miss something? This page is an initial attempt to identify the community
 # GBIF North America Community Participants 
 ------------------------------
 (listed alphabetically)
-## Nodes
+<a name="nodes"></a>## Nodes
 ### Country Nodes
 - [Canada](https://www.gbif.org/country/CA/summary)
 - [Mexico](https://www.gbif.org/country/MX/summary)
@@ -46,21 +46,21 @@ Did we miss something? This page is an initial attempt to identify the community
 - Taxonomic Databases Working Group
 - VertNet
 
-## Publishers
+<a name="publishers"></a>## Publishers
 The North America community has over 300 publishers combined from [Canada](https://www.gbif.org/publisher/search?country=CA), [Mexico](https://www.gbif.org/publisher/search?country=MX), and the [United States](https://www.gbif.org/publisher/search?country=US).
 
-## Networks
+<a name="networks"></a>## Networks
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
 - [VertNet](http://www.vertnet.org/)
 
-## Collections Management Systems
+<a name="cms"></a>## Collections Management Systems
 - Arctos
 - EMu
 - Specify
 
-## Installations
+<a name="installations"></a>## Installations
 ### Accepting additional publishers
 For more information contact these installations directly
 - [BISON](https://bison.usgs.gov/ipt/)
