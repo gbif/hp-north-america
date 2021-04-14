@@ -115,3 +115,10 @@ For more information contact these installations directly
 
 ------
 [More information](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) on how to make your data available.
+
+Other North American Hosted Portals
+----------
+[BISON](https://hp-bison.gbif-staging.org/)
+[Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)
+[VertNet](https://hp-vertnet-plus.gbif-staging.org/)
+[All GBIF Hosted Portals](https://dev.gbif.org/hosted-portals.html)
