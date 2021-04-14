@@ -27,7 +27,7 @@ Did we miss something? This page is an initial attempt to identify the community
 # GBIF North America Community Participants 
 ------------------------------
 (listed alphabetically)
-<a name="nodes"></a>## Nodes
+<a name="nodes"></a>Nodes
 ### Country Nodes
 - [Canada](https://www.gbif.org/country/CA/summary)
 - [Mexico](https://www.gbif.org/country/MX/summary)
@@ -46,21 +46,21 @@ Did we miss something? This page is an initial attempt to identify the community
 - Taxonomic Databases Working Group
 - VertNet
 
-<a name="publishers"></a>## Publishers
+<a name="publishers"></a>Publishers
 The North America community has over 300 publishers combined from [Canada](https://www.gbif.org/publisher/search?country=CA), [Mexico](https://www.gbif.org/publisher/search?country=MX), and the [United States](https://www.gbif.org/publisher/search?country=US).
 
-<a name="networks"></a>## Networks
+<a name="networks"></a>Networks
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
 - [VertNet](http://www.vertnet.org/)
 
-<a name="cms"></a>## Collections Management Systems
+<a name="cms"></a>Collections Management Systems
 - Arctos
 - EMu
 - Specify
 
-<a name="installations"></a>## Installations
+<a name="installations"></a>Installations
 ### Accepting additional publishers
 For more information contact these installations directly
 - [BISON](https://bison.usgs.gov/ipt/)
