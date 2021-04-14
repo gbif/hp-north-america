@@ -20,14 +20,15 @@ height: 50vh
 
 [**Collections Management System (CMS)**](#cms): is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
-----------------------
-Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
+
+> Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to > be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
 
 
 # GBIF North America Community Participants 
 ------------------------------
 (listed alphabetically)
 <a name="nodes"></a>Nodes
+------------
 ### Country Nodes
 - [Canada](https://www.gbif.org/country/CA/summary)
 - [Mexico](https://www.gbif.org/country/MX/summary)
@@ -47,20 +48,24 @@ Did we miss something? This page is an initial attempt to identify the community
 - VertNet
 
 <a name="publishers"></a>Publishers
+------------
 The North America community has over 300 publishers combined from [Canada](https://www.gbif.org/publisher/search?country=CA), [Mexico](https://www.gbif.org/publisher/search?country=MX), and the [United States](https://www.gbif.org/publisher/search?country=US).
 
 <a name="networks"></a>Networks
+------------
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
 - [VertNet](http://www.vertnet.org/)
 
 <a name="cms"></a>Collections Management Systems
+------------
 - Arctos
 - EMu
 - Specify
 
 <a name="installations"></a>Installations
+------------
 ### Accepting additional publishers
 For more information contact these installations directly
 - [BISON](https://bison.usgs.gov/ipt/)
