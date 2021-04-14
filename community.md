@@ -16,12 +16,14 @@ height: 50vh
 
 **Network**: a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data. 
 
-**Installation**: a method for publishing data to GBIF, commonly an Integrated Publishing Toolkit (IPT), that is managed by an organization.    
+**Installation**: a method for publishing data to GBIF, commonly an Integrated Publishing Toolkit (IPT) but also includes Symbiota and other methods, that is managed by an organization.    
 
 **Collections Management System (CMS)**: is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
+Did we miss something? This page is an initial attempt to identify the community involved. If you see notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
 
-# GBIF North America Community Participants (listed alphabetically)
+# GBIF North America Community Participants 
+(listed alphabetically)
 ------------------------------
 ## Nodes
 ### Country Nodes
@@ -57,7 +59,8 @@ The North America community has over 300 publishers combined from [Canada](https
 - Specify
 
 ## Installations
-### Accepting additional publishers under certain circumstances
+### Accepting additional publishers
+For more information contact these installations directly
 - [BISON](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
