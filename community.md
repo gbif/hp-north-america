@@ -21,8 +21,8 @@ height: 50vh
 **Collections Management System (CMS)**: is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
 ----------------------
-Did we miss something? This page is an initial attempt to identify the community involved. If you see notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
-----------------------
+Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
+
 
 # GBIF North America Community Participants 
 ------------------------------
