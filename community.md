@@ -118,7 +118,7 @@ For more information contact these installations directly
 
 Other North American Hosted Portals
 ----------
-[BISON](https://hp-bison.gbif-staging.org/)
-[Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)
-[VertNet](https://hp-vertnet-plus.gbif-staging.org/)
-[All GBIF Hosted Portals](https://dev.gbif.org/hosted-portals.html)
+[BISON](https://hp-bison.gbif-staging.org/)     
+[Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)     
+[VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
+[All GBIF Hosted Portals](https://dev.gbif.org/hosted-portals.html)    
