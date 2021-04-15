@@ -16,7 +16,7 @@ height: 50vh
 
 [**Network**](#networks): a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data. 
 
-[**Installation**](#installations): a method for publishing data to GBIF, commonly an Integrated Publishing Toolkit (IPT) but also includes Symbiota and other methods, that is managed by an organization.    
+[**Installation**](#installations): a method for publishing data to GBIF that is managed by an organization, most commonly an Integrated Publishing Toolkit (IPT) but also includes Symbiota and other methods.    
 
 [**Collections Management System (CMS)**](#cms): is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
@@ -64,6 +64,7 @@ The North America community has over 300 publishers combined from [Canada](https
 - Arctos
 - EMu
 - Specify
+- Symbiota
 
 <a name="installations"></a>Installations
 ------------
