@@ -10,13 +10,13 @@ height: 50vh
 ---
 
 ## Glossary
-[**Node**](#nodes): a team designated by a Participant to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
+[**Node**](#nodes): a team designated by a [Participant](https://www.gbif.org/the-gbif-network#:~:text=The%20Participant%20network,open%20access%20to%20biodiversity%20data) to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
 
 [**Publisher**](#publishers): organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
 
 [**Network**](#networks): a community of installations, publishers, and nodes working together on a specific topic or domain to facilitate and increase sharing of relevant biodiversity data. 
 
-[**Installation**](#installations): a method for publishing data to GBIF that is managed by an organization, most commonly an Integrated Publishing Toolkit (IPT) but also includes Symbiota and other methods.    
+[**Installation**](#installations): a method for publishing data to GBIF that is managed by an organization, most commonly an [Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt) but also includes Symbiota and other methods.    
 
 [**Collections Management System (CMS)**](#cms): is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
