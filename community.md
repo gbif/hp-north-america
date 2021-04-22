@@ -10,7 +10,7 @@ height: 50vh
 ---
 
 ## Glossary
-[**Node**](#nodes): a team designated by a [Participant](https://www.gbif.org/the-gbif-network#:~:text=The%20Participant%20network,open%20access%20to%20biodiversity%20data) to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
+[**Participant Node**](#nodes): a team designated by a [Participant](https://www.gbif.org/the-gbif-network#:~:text=The%20Participant%20network,open%20access%20to%20biodiversity%20data) to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
 
 [**Publisher**](#publishers): organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
 
@@ -28,14 +28,14 @@ height: 50vh
 ------------------------------
 (listed alphabetically)
 
-<a name="nodes"></a>Nodes
+<a name="nodes"></a>Participant Nodes
 ------------
-### Country Nodes
+### Voting Nodes
 - [Canada](https://www.gbif.org/country/CA/summary)
 - [Mexico](https://www.gbif.org/country/MX/summary)
 - [United States](https://www.gbif.org/country/US/summary)
 
-### Participant Nodes
+### Associate Nodes
 - Biodiversity Heritage Library
 - Canadensys
 - Consortium for the Barcode of Life
@@ -55,6 +55,7 @@ The North America community has over 300 publishers combined from [Canada](https
 <a name="networks"></a>Networks
 ------------
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
+- [CONABIO](https://www.gbif.org/publisher/ff90b050-c256-11db-b71b-b8a03c50a862)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
 - [VertNet](http://www.vertnet.org/)
@@ -81,7 +82,7 @@ For more information contact these installations directly
 - Canadian Museum of Nature
 - Canadian Node of the Ocean Biodiversity Information System (OBIS Canada)
 - Cincinnati Museum Center
-- Comisión nacional para el conocimiento y uso de la biodiversidad
+- Comisión nacional para el conocimiento y uso de la biodiversidad (CONABIO)
 - Department of Environmental Conservation, University of Massachusetts - Amherst
 - Field Museum of Natual History
 - Florida Museum of Natural History
