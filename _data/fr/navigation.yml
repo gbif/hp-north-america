@@ -2,8 +2,14 @@
 
 - text: À Propos
   href: /fr/apropos
-- text: Data
+- text: Communauté
+  href: /fr/community
+- text: Données
   href: /fr/data
+- text: FAQ
+  href: /fr/faq
+- text: Nouvelles et évènements
+  href: /fr/nouvelles/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
@@ -16,7 +22,12 @@
     href: https://dwc.tdwg.org/
   - text: Audubon Core
     href: https://www.tdwg.org/standards/ac/
-- text: FAQ
-  href: /fr/faq
-- text: Nouvelles et évènements
-  href: /fr/nouvelles/
+- text: Aide
+  menu: # Dropdown menu (one level deep only)
+  - text: Help Desk pour la région GBIF Amérique du Nord
+    href: mailto:gbif.na.helpdesk@gmail.com
+  - text: Mentors et Formateurs de GBIF
+    href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
+  - text: Ambassadeurs des données de biodiversité ouvertes de GBIF
+    href: https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors
+
