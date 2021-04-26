@@ -17,7 +17,7 @@ height: 50vh
 [**Réseau**](#networks): une communauté d'installations, fournisseurs de données et noeuds travaillant conjointement sur un sujet ou un domaine particulier afin de faciliter et augmenter le partage de données de biodiversité 
 pertinentes. 
 
-[**Installation**](#installations): une méthode de publication de données vers GBIF qui est gérée par une organisation. La méthode la plus souvent employée utilise l'[Outil Intégré de Publication des DOnnées - Integrated Publishing Toolkit (IPT)](https://www.gbif.org/fr/ipt) mais peut également être Symbiota et d'autres méthodes.    
+[**Installation**](#installations): une méthode de publication de données vers GBIF qui est gérée par une organisation. La méthode la plus souvent employée utilise l'[Outil Intégré de Publication des Données - Integrated Publishing Toolkit (IPT)](https://www.gbif.org/fr/ipt) mais peut également être Symbiota et d'autres méthodes.    
 
 [**Système de gestion des collections (CMS)**](#cms): un logiciel permettant de documenter une collection. Il donne accès à de l'information sur les collections et acquisition d'une institution aux chercheurs académiques, aux bénévoles institutionnels et au public, de plus en plus souvent via des méthodes en ligne. Un CMS permet également la publication des données.
 
