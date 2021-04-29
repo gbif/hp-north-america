@@ -13,7 +13,7 @@ permalink: /fr/apropos
 ## La région Amérique du Nord a trois objectifs principaux :
 
 1. Encourager les collaborations régionales afin de définir les meilleures pratiques de participation, transfert de connaissances, formation et amélioration des compétences dans la communauté Nord-Américaine de partage de données.
-2. Soliciter les idées menant à une meilleure coordination à travers la région, définir les rôles et responsabilités, et clarifier le chemin vers la mobilisation des données.
+2. Solliciter les idées menant à une meilleure coordination à travers la région, définir les rôles et responsabilités, et clarifier le chemin vers la mobilisation des données.
 3. Encourager les futurs projets à prendre part dans la communauté, en utilisant les bénéfices et résultats des deux premiers objectifs.
 
 Afin d'atteindre ces objectifs, le comité de gestion pour la région Amérique du Nord a mis en place des rencontres régionales trimestrielles et a créer un [espace de travail collaboratif régional sur Slack](https://app.slack.com/client/T012ZB91953/G0185BQHTCH).
@@ -29,7 +29,7 @@ Ce portail facilite l'exploration des données sur la biodiversité en Amérique
 
 ## Collaborateurs
 
-Des représentatants des noeuds et institutions suivants collaborent au contenu de ce portail :
+Des représentants des noeuds et institutions suivants collaborent au contenu de ce portail :
 * [États-Unis](https://www.gbif.org/country/US)
 * [Mexique](https://www.gbif.org/country/MX)
 * [Canadensys](https://www.gbif.org/node/4db9cfd2-1191-4b9d-b579-0b68ceabd968)

@@ -1,4 +1,5 @@
 ---
+layout: heroImage
 title: Frequently Asked Questions
 description: This page provides answers to frequently asked questions about biodiversity data standards, sharing data, and how to access GBIF North America data.
 lang: en

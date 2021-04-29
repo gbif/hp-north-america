@@ -6,7 +6,7 @@ title: GBIF Amérique du Nord
 description: La région de l'Amérique du Nord à pour objectif de connecter les représentants des noeuds GBIF, des installations IPT, et de toutes les autres organisations et acteurs afin de favoriser les collaborations et les discussions autour de buts, défis et opportunités en commun.
 background: "{{site.data.images.BarbaryFig.src}}"
 imageLicense: "{{site.data.images.BarbaryFig.caption}}"
-height: 70vh
+height: 75vh
 cta:
   - text: Explorez les données
     href: /fr/data

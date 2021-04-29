@@ -10,12 +10,11 @@ height: 50vh
 ---
 
 ## Glossaire
-[**Noeud Participant**](#nodes) : une équipe désignée par le [Participant](https://www.gbif.org/fr/the-gbif-network#:~:text=Le%20r%C3%A9seau%20global,aux%20donn%C3%A9es%20sur%20la%20biodiversit%C3%A9) afin de coordonner un réseau de personnes et d'institutions produisant, gérant et utilisant des données de biodiversité, construisant ainsi de manière collective une infrastructure permettant de fournir de l'information sur la biodiversité. Ils sont soutenus par des ententes organisationnelles et des solutions informatiques, et travaillent à améliorer la disponibilité et l'utilité des données de biodiversité pour la recherche et les décisions politiques.   
+[**Noeud Participant**](#nodes) : une équipe désignée par le [participant](https://www.gbif.org/fr/the-gbif-network#:~:text=Le%20r%C3%A9seau%20global,aux%20donn%C3%A9es%20sur%20la%20biodiversit%C3%A9) afin de coordonner un réseau de personnes et d'institutions produisant, gérant et utilisant des données de biodiversité, construisant ainsi de manière collective une infrastructure permettant de fournir de l'information sur la biodiversité. Ils sont soutenus par des ententes organisationnelles et des solutions informatiques, et travaillent à améliorer la disponibilité et l'utilité des données de biodiversité pour la recherche et les décisions politiques.   
 
 [**Fournisseur de données**](#publishers) : organisation fournissant des données de biodiversité organisées sous un format standardisé reconnu par les méthodes de récupération des données de GBIF, et mis à la disposition de tous via une plateforme Internet stable. Devenez un [fournisseur de données](https://www.gbif.org/fr/become-a-publisher).   
 
-[**Réseau**](#networks): une communauté d'installations, fournisseurs de données et noeuds travaillant conjointement sur un sujet ou un domaine particulier afin de faciliter et augmenter le partage de données de biodiversité 
-pertinentes. 
+[**Réseau**](#networks): une communauté d'installations, fournisseurs de données et noeuds travaillant conjointement sur un sujet ou un domaine particulier afin de faciliter et augmenter le partage de données de biodiversité pertinentes. 
 
 [**Installation**](#installations): une méthode de publication de données vers GBIF qui est gérée par une organisation. La méthode la plus souvent employée utilise l'[Outil Intégré de Publication des Données - Integrated Publishing Toolkit (IPT)](https://www.gbif.org/fr/ipt) mais peut également être Symbiota et d'autres méthodes.    
 
