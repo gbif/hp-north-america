@@ -1,6 +1,6 @@
 ---
 title:  "North America Regional Meeting - June 2021"
-date:   2021-06-22 11:00:00 -0800
+date:   2021-06-22 10:45:00 -0700
 categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Regional-Jun2021
