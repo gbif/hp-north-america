@@ -15,6 +15,10 @@ BarbaryFig:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/62326418/original.jpeg?1582845556
   caption: "[*Opuntia ficus-indica* (L.) Mill.](https://www.gbif.org/occurrence/2576249418) observed in Mexico by CarinaCR (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
+CaliforniaPoppy:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/11362571/original.jpg?1508719282
+  caption: "[*Eschscholzia californica* Cham.](https://www.gbif.org/occurrence/1677336228) observed in United States of America by Roberto R. Calderón (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
 MarginedWhite:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/62634519/original.jpeg?1583199830
   caption: "[*Pieris marginalis* Scudder, 1861](https://www.gbif.org/occurrence/2576249869) observed in United States of America by icosahedron (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
