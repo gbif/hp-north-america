@@ -4,13 +4,11 @@ date:   2021-06-22 10:45:00 -0700
 categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Regional-Jun2021
-background: "{{site.data.images.MarginedWhite.src}}"
-imageLicense: "{{site.data.images.MarginedWhite.caption}}"
+background: "{{site.data.images.NicholsPricklyPear.src}}"
+imageLicense: "{{site.data.images.NicholsPricklyPear.caption}}"
 ---
 
-Greetings!
-
-We will be holding a North America Regional Meeting next week in association with the GBIF Global Nodes Meeting. **Our regional breakout session is scheduled for Wednesday, 30 June, at 16:00 UTC.** We invite all North America stakeholders to attend our regional meeting via Zoom: https://ucph-ku.zoom.us/j/68021776070 
+Greetings! We will be holding a North America Regional Meeting next week in association with the GBIF Global Nodes Meeting. **Our regional breakout session is scheduled for Wednesday, 30 June, at 16:00 UTC.** We invite all North America stakeholders to attend our regional meeting via Zoom: https://ucph-ku.zoom.us/j/68021776070 
 
 We hope to see you there!
 
