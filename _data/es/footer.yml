@@ -13,6 +13,7 @@ columns:
   - name: Comentarios
     description: | # Can be Markdown
       [Cree un nuevo problema de GitHub](https://github.com/gbif/hp-north-america/issues/new) para solicitar una función, informar un error o proporcionar comentarios.
+  
   - name: Contacto
     description: | # Can be Markdown
       * [El servicio de ayuda](mailto:gbif.na.helpdesk@gmail.com)
