@@ -1,12 +1,13 @@
 ---
+layout: heroImage
 title: La región de América del Norte
 description: La región de América del Norte reúne a los representantes de Nodos de GBIF, las instancias del IPT y otras organizaciones/partes interesadas para inspirar la colaboración y la discusión de los objetivos, retos y oportunidades.
 lang: es
 lang-ref: about
-background: /assets/images/https_observation_org_photos_24593338.jpg
-imageLicense: |
-  Photo by Simon Feys via [gbif.org](https://www.gbif.org/occurrence/2842301073)
+background: "{{site.data.images.AmericanBison.src}}"
+imageLicense: "{{site.data.images.AmericanBison.caption}}"
 height: 70vh
+permalink: /es/acerca
 ---
 
 ## La región de América del Norte tiene tres objetivos principales:
