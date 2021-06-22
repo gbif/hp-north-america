@@ -25,7 +25,11 @@ MarginedWhite:
 
 NicholsPricklyPear:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/171390/original.JPG
-  caption: "[*Opuntia polyacantha* Haw.](https://www.gbif.org/occurrence/1978812231) observed in United States of America by mngross (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+  caption: "[*Opuntia polyacantha* Haw.](https://www.gbif.org/occurrence/1562924568) observed in United States of America by mngross (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+ 
+NorthernAlligatorLizard:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/7749121/original.jpeg?1494549170
+  caption: "[*Elgaria coerulea* (Wiegmann, 1828)](https://www.gbif.org/occurrence/1978812231) observed in United States of America by yerbasanta (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
  
 ShortBeakedCommonDolphin:
   src: https://observation.org/photos/12362160.jpg
