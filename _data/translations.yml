@@ -16,7 +16,7 @@ terms:
 acceptTerms:
   en: 'Accept'
   es: 'Aceptar'
-  fr: 'J'accepte'
+  fr: 'J\'accepte'
 rejectTerms:
   en: 'Reject'
   es: 'Rechazar'
