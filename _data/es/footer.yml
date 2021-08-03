@@ -19,7 +19,9 @@ columns:
       * [El servicio de ayuda](mailto:gbif.na.helpdesk@gmail.com)
       * [Slack](https://gbif-north-america.slack.com)
     connectIcons: false
-
+other: |
+  [Política de privacidad](/privacy-policy)
+  
   # EXAMPLE
   #- name: Group name
   #  description: |
