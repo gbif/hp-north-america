@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines (until baseurl:)
   discussion of shared goals, challenges, and opportunities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-north-america.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 theme: minima
@@ -39,16 +39,16 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # for usage in the standard privacy layout
 privacy:
-  name: the name should be filled
-  domain: your-domain.org
-  contactEmail: contact@your-domain.org
-  helpdeskEmail: helpdesk@your-domain.org
+  name: GBIF North America Region
+  domain: hp-north-america.gbif.org
+  contactEmail: gbif.na.helpdesk@gmail.com
+  helpdeskEmail: gbif.na.helpdesk@gmail.com
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
-  enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
-  GA_ID: "G-XXXXXXXX" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
-  termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+  enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  GA_ID: "G-6N8KF1QV98" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  termsVersion: "2021-08-03" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
 algae:
   rootLang: en
