@@ -20,7 +20,7 @@ columns:
       * [Slack](https://gbif-north-america.slack.com)
     connectIcons: false
 other: |
-  [Politique de confidentialité](/privacy-policy)
+  [Politique de confidentialité](/privacy)
   
   # EXAMPLE
   #- name: Group name
