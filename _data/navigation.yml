@@ -5,7 +5,16 @@
 - text: Community
   href: /community
 - text: Data
-  href: /data?view=MAP
+  menu: # Dropdown menu (one level deep only)
+  - text: Occurrences
+    href: /data?view=MAP
+  - text: ------
+  - text: Literature all
+    href: /literature
+  - text: Literature from
+    href: /literature/from
+  - text: Literature about
+    href: /literature/about
 - text: FAQ
   href: /faq
 - text: Events & News
