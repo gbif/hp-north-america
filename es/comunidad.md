@@ -9,7 +9,7 @@ layout: heroImage
 height: 50vh
 ---
 
-###Glosario
+## Glosario
 [**Nodo Participante**](#nodes): un equipo designado por un [Participante](https://www.gbif.org/es/the-gbif-network#:~:text=La%20Red%20GBIF,los%20datos%20de%20biodiversidad) para coordinar una red de personas e instituciones que producen, administran y utilizan datos de biodiversidad y que de manera colectiva construyen infraestructura para distribuir información de biodiversidad. Están respaldados por acuerdos institucionales y soluciones informáticas, que trabajan para mejorar la disponibilidad y utilidad de los datos de biodiversidad para su uso en investigación, política y toma de decisiones. 
 
 [**Publicador**](#publishers): organizaciones que proporcionan datos de biodiversidad estructurados en formatos y estándares considerados por el proceso de recolección de datos de GBIF y que se ponen a disposición a través de una plataforma web estable. Conviértete en un [publicador](https://www.gbif.org/es/become-a-publisher). 
@@ -28,12 +28,12 @@ height: 50vh
 
 <a name="nodes"></a>Nodos Participantes
 ------------
-###Nodos Votantes
+## Nodos Votantes
 - [Canadá](https://www.gbif.org/es/country/CA/summary)
 - [México](https://www.gbif.org/es/country/MX/summary)
 - [Estados Unidos](https://www.gbif.org/es/country/US/summary)
 
-###Nodos Asociados
+## Nodos Asociados
 - Biodiversity Heritage Library
 - Canadensys
 - Consortium for the Barcode of Life
@@ -66,13 +66,13 @@ La comunidad de América del Norte tiene más de 300 publicadores de [Canadá](h
 
 <a name="installations"></a>Instalaciones
 ------------
-###Aceptando publicadores adicionales
+## Aceptando publicadores adicionales
 Para mayor información contacta directamente a estas instalaciones
 - [GBIF-US](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
 
-###Otras instalaciones
+## Otras instalaciones
 - American Museum of Natural History
 - Berkeley Natural History Museums
 - California Academy of Sciences
