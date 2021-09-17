@@ -68,7 +68,7 @@ La comunidad de América del Norte tiene más de 300 publicadores de [Canadá](h
 ------------
 ###Aceptando publicadores adicionales
 Para mayor información contacta directamente a estas instalaciones
-- [BISON](https://bison.usgs.gov/ipt/)
+- [GBIF-US](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
 
@@ -117,7 +117,7 @@ Para mayor información contacta directamente a estas instalaciones
 
 Otros Portales de América del Norte
 ----------
-[BISON](https://hp-bison.gbif-staging.org/)     
+[GBIF-US](https://www.gbif.us)     
 [Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)     
 [VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
 => [Portales alojados en GBIF](https://dev.gbif.org/hosted-portals.html) 
