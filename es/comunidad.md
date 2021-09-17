@@ -20,7 +20,8 @@ height: 50vh
 
 [**Sistema de Manejo de Colecciones (CMS)**](#cms): es un software que permite la documentación de una colección. Proporciona acceso a la información de las colecciones y objetos de una institución a investigadores académicos, voluntarios institucionales y al público en general,  a través de métodos en línea. Un CMS también  tiene la capacidad de publicar datos. 
 
-¿Faltó algo? Esta página es un esfuerzo inicial para identificar a la comunidad involucrada. Si notas que debe agregarse algo, por favor [abre una solicitud en GitHub](https://github.com/gbif/hp-north-america/issues/new) para que podamos actualizar la página
+> ¿Faltó algo? Esta página es un esfuerzo inicial para identificar a la comunidad involucrada. Si notas que debe agregarse algo, por favor [abre una solicitud en GitHub](https://github.com/gbif/hp-north-america/issues/new) para que podamos actualizar la página
+
 
 # Participantes de la Comunidad GBIF de América del Norte
 ------------------------------
