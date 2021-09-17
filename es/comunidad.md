@@ -111,8 +111,8 @@ Para mayor información contacta directamente a estas instalaciones
 - USF Water Institute
 - Vermont Center for Ecostudies
 - Yale University Peabody Museum
-------
 
+------
 [Más información](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) sobre cómo publicar tus datos.
 
 Otros Portales de América del Norte
