@@ -14,10 +14,19 @@ Nous invitons tous les intervenants nord-américains à assister à notre réuni
 
 Après votre inscription, vous recevrez un e-mail de confirmation contenant des informations sur la façon de rejoindre la réunion.
 
-Notre ordre du jour est :
-- Mises à jour du GBIF
-- Mise à jour à propos du portail hébergé
-- Préparation à l'élection du représentant régional
-- Evolution du groupe de pilotage régional
+### Agenda :
+* Mises à jour du GBIF
+* Mise à jour à propos du portail hébergé
+* Préparation à l'élection du représentant régional
+* Evolution du groupe de pilotage régional
 
-Nous serions ravis de vous compter parmi nous !
+### Rejoindre la conversation!
+* GBIF NA Slack: [https://bit.ly/JoinNASlack](https://bit.ly/JoinNASlack)
+* GBIF NA Listserv: [https://groups.google.com/g/gbif-na](https://groups.google.com/g/gbif-na)
+
+### Matériels et resources de cette rencontre (lecture seulement) :
+* [Présentation](https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/)
+<iframe src="https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+* [Rapport annuel de la région Amérique du Nord 2021](https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/)
+<iframe src="https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
