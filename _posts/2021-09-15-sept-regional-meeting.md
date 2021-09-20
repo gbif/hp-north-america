@@ -14,10 +14,19 @@ We invite all North America stakeholders to attend our regional meeting via Zoom
 
 After registering, you will receive a confirmation email containing information about how to join the meeting.
 
-Our agenda is:
-- GBIF updates
-- Hosted portal update
-- Prepare for Regional Representative election
-- Evolution of regional steering group
+### Agenda
+* GBIF updates
+* Hosted portal update
+* Prepare for Regional Representative election
+* Evolution of regional steering group
 
-We hope to see you there!
+### Join the conversation!
+* GBIF NA Slack: [https://bit.ly/JoinNASlack](https://bit.ly/JoinNASlack)
+* GBIF NA Listserv: [https://groups.google.com/g/gbif-na](https://groups.google.com/g/gbif-na)
+
+### Materials and resources from the meeting (view only):
+* [Presentation](https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/)
+<iframe src="https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+* [2021 North America Annual Region Report](https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/)
+<iframe src="https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
