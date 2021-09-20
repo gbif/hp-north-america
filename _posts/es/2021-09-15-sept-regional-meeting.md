@@ -29,4 +29,4 @@ Después de registrarse, recibirá un correo electrónico de confirmación con i
 <iframe src="https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 * [Informe anual de la región de América del Norte de 2021](https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/)
-<iframe src="https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/document/d/1HFhI1lPUX7UTXEITjImSEuPL57oM88yhWCwdED5XnBA/preview" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
