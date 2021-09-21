@@ -15,9 +15,9 @@ As we discussed in our most [recent regional meeting](https://hp-north-america.g
 Responsibilities of the regional steering group include:
 * Facilitate regional communication, coordination, and collaboration
 * Help and support the Regional Representative and Deputy
-** Participate in bi-weekly meetings
-** Help with quarterly meetings
-** Help with annual region reports
+  - Participate in bi-weekly meetings
+  - Help with quarterly meetings
+  - Help with annual region reports
 * Willingness to work on projects for the benefit of the community (e.g., the portal)
 * Help turn notes and requests from the community into actions
 
