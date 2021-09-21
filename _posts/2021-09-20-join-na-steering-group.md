@@ -3,7 +3,7 @@ title:  "Call for volunteers to join the GBIF North America steering group"
 date:   2021-09-20 17:00:00 -0700
 categories: ["Steering Group"]
 lang: en
-lang-ref: NA-Regional-Sep2021
+lang-ref: Join-NA-SG
 background: "{{site.data.images.CaliforniaPoppy.src}}"
 imageLicense: "{{site.data.images.CaliforniaPoppy.caption}}"
 ---
