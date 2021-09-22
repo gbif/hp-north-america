@@ -21,7 +21,7 @@ Les responsabilités du groupe de pilotage régional comprennent :
 * Volonté de travailler sur des projets au profit de la communauté (par exemple, le portail)
 * Aidez à transformer les notes et les demandes de la communauté en actions
 
-**Si vous souhaitez rejoindre le groupe de pilotage, veuillez envoyer votre intention par e-mail à [gbif-na-steering-group@googlegroups.com](gbif-na-steering-group@googlegroups.com) avant ce vendredi 24 septembre.**
+**Si vous souhaitez rejoindre le groupe de pilotage, veuillez envoyer votre intention par e-mail à [gbif.na.helpdesk@gmail.com](gbif.na.helpdesk@gmail.com) avant ce vendredi 24 septembre.**
 
 Merci d'avoir pensé !
 
