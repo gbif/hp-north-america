@@ -21,7 +21,7 @@ Las responsabilidades del grupo directivo regional incluyen:
 * Voluntad de trabajar en proyectos en beneficio de la comunidad (por ejemplo, el portal)
 * Ayude a convertir las notas y solicitudes de la comunidad en acciones
 
-**Si está interesado en unirse al grupo directivo, envíe un correo electrónico con su intención a [gbif-na-steering-group@googlegroups.com](gbif-na-steering-group@googlegroups.com) antes de este viernes 24 de septiembre.**
+**Si está interesado en unirse al grupo directivo, envíe un correo electrónico con su intención a [gbif.na.helpdesk@gmail.com](gbif.na.helpdesk@gmail.com) antes de este viernes 24 de septiembre.**
 
 ¡Gracias por considerarlo!
 
