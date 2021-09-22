@@ -21,7 +21,7 @@ Responsibilities of the regional steering group include:
 * Willingness to work on projects for the benefit of the community (e.g., the portal)
 * Help turn notes and requests from the community into actions
 
-**If you are interested in joining the steering group, please email your intent to [gbif-na-steering-group@googlegroups.com](gbif-na-steering-group@googlegroups.com) by this Friday, 24 September.**
+**If you are interested in joining the steering group, please email your intent to [gbif.na.helpdesk@gmail.com](gbif.na.helpdesk@gmail.com) by this Friday, 24 September.**
 
 Thank you for considering!
 
