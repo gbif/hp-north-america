@@ -71,7 +71,7 @@ The North America community has over 300 publishers combined from [Canada](https
 ------------
 ### Accepting additional publishers
 For more information contact these installations directly
-- [BISON](https://bison.usgs.gov/ipt/)
+- [GBIF-US](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
 
@@ -120,7 +120,7 @@ For more information contact these installations directly
 
 Other North American Hosted Portals
 ----------
-[BISON](https://hp-bison.gbif-staging.org/)     
+[GBIF-US](https://www.gbif.us)     
 [Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)     
 [VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
 => [All GBIF Hosted Portals](https://dev.gbif.org/hosted-portals.html)    

@@ -71,7 +71,7 @@ La communauté d'Amérique du Nord comprend plus de 300 fournisseurs de données
 ------------
 ### Installations acceptant de nouveaux fournisseurs de données
 Pour de plus amples informations, contactez directement ces installations
-- [BISON](https://bison.usgs.gov/ipt/)
+- [GBIF-US](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
 
@@ -120,7 +120,7 @@ Pour de plus amples informations, contactez directement ces installations
 
 Autres portails hébergés en Amérique du Nord
 ----------
-[BISON](https://hp-bison.gbif-staging.org/)     
+[GBIF-US](https://www.gbif.us)     
 [Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)     
 [VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
 => [Tous les portails hébergés par GBIF](https://dev.gbif.org/hosted-portals.html)    

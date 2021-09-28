@@ -9,7 +9,7 @@ layout: heroImage
 height: 50vh
 ---
 
-###Glosario
+## Glosario
 [**Nodo Participante**](#nodes): un equipo designado por un [Participante](https://www.gbif.org/es/the-gbif-network#:~:text=La%20Red%20GBIF,los%20datos%20de%20biodiversidad) para coordinar una red de personas e instituciones que producen, administran y utilizan datos de biodiversidad y que de manera colectiva construyen infraestructura para distribuir información de biodiversidad. Están respaldados por acuerdos institucionales y soluciones informáticas, que trabajan para mejorar la disponibilidad y utilidad de los datos de biodiversidad para su uso en investigación, política y toma de decisiones. 
 
 [**Publicador**](#publishers): organizaciones que proporcionan datos de biodiversidad estructurados en formatos y estándares considerados por el proceso de recolección de datos de GBIF y que se ponen a disposición a través de una plataforma web estable. Conviértete en un [publicador](https://www.gbif.org/es/become-a-publisher). 
@@ -20,7 +20,8 @@ height: 50vh
 
 [**Sistema de Manejo de Colecciones (CMS)**](#cms): es un software que permite la documentación de una colección. Proporciona acceso a la información de las colecciones y objetos de una institución a investigadores académicos, voluntarios institucionales y al público en general,  a través de métodos en línea. Un CMS también  tiene la capacidad de publicar datos. 
 
-¿Faltó algo? Esta página es un esfuerzo inicial para identificar a la comunidad involucrada. Si notas que debe agregarse algo, por favor [abre una solicitud en GitHub](https://github.com/gbif/hp-north-america/issues/new) para que podamos actualizar la página
+> ¿Faltó algo? Esta página es un esfuerzo inicial para identificar a la comunidad involucrada. Si notas que debe agregarse algo, por favor [abre una solicitud en GitHub](https://github.com/gbif/hp-north-america/issues/new) para que podamos actualizar la página
+
 
 # Participantes de la Comunidad GBIF de América del Norte
 ------------------------------
@@ -28,12 +29,12 @@ height: 50vh
 
 <a name="nodes"></a>Nodos Participantes
 ------------
-###Nodos Votantes
+## Nodos Votantes
 - [Canadá](https://www.gbif.org/es/country/CA/summary)
 - [México](https://www.gbif.org/es/country/MX/summary)
 - [Estados Unidos](https://www.gbif.org/es/country/US/summary)
 
-###Nodos Asociados
+## Nodos Asociados
 - Biodiversity Heritage Library
 - Canadensys
 - Consortium for the Barcode of Life
@@ -66,13 +67,13 @@ La comunidad de América del Norte tiene más de 300 publicadores de [Canadá](h
 
 <a name="installations"></a>Instalaciones
 ------------
-###Aceptando publicadores adicionales
+## Aceptando publicadores adicionales
 Para mayor información contacta directamente a estas instalaciones
-- [BISON](https://bison.usgs.gov/ipt/)
+- [GBIF-US](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
 
-###Otras instalaciones
+## Otras instalaciones
 - American Museum of Natural History
 - Berkeley Natural History Museums
 - California Academy of Sciences
@@ -111,13 +112,13 @@ Para mayor información contacta directamente a estas instalaciones
 - USF Water Institute
 - Vermont Center for Ecostudies
 - Yale University Peabody Museum
-------
 
+------
 [Más información](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) sobre cómo publicar tus datos.
 
 Otros Portales de América del Norte
 ----------
-[BISON](https://hp-bison.gbif-staging.org/)     
+[GBIF-US](https://www.gbif.us)     
 [Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)     
 [VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
 => [Portales alojados en GBIF](https://dev.gbif.org/hosted-portals.html) 
