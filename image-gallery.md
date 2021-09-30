@@ -1,7 +1,7 @@
 ---
 lang: en
 lang-ref: gallery
-layout: archive
+layout: text
 title: Image Gallery
 description: The images shown are available in the images.yml file for use on hosted portal pages.
 gallery_item:
