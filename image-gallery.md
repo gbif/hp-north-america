@@ -31,8 +31,6 @@ gallery_item:
   caption: "{{site.data.images.ShortBeakedCommonDolphin.caption}}"   
 --- 
 
-In the page front matter, the syntax is `"{{site.data.images.CodeName.src}}"` for image and `"{{site.data.images.CodeName.caption}}"` for caption.
- 
 {{< gallery >}}
 
 
