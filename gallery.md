@@ -20,6 +20,6 @@ imageLicense: "{{site.data.images.CodeName.caption}}"
 
 <ul>
   {% for item in site.data.images %}
-    <li>{{ item[0] }}: {{ item[1] }}</li>
+    <li>{{ item[0] }}: {{ item[1].src }}</li>
   {% endfor %}
 </ul>
