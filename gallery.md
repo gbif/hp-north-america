@@ -8,7 +8,7 @@ lang-ref: gallery
 # Image Gallery
 
 ## Instructions
-This page provides a visual reference to the photos contained in the `images.yml` file. These images can be used for pages and posts on this site by making note of the "code name" shown below each image. In your page or post, format the `background` and `imageLicense` in the front matter like this:
+This page provides a visual reference to the photos contained in the [`images.yml`](https://github.com/gbif/hp-north-america/blob/master/_data/images.yml) file. These images can be used for pages and posts on this site by making note of the **CodeName** shown in the image captions. In your page or post, format the `background` and `imageLicense` in the front matter using the **CodeName** like this:
 
 ```
 {% raw %}
