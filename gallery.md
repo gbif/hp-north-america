@@ -23,4 +23,8 @@ imageLicense: "{{site.data.images.CodeName.caption}}"
 	  <img src="{{ item[1].src }}" style="height: auto; width: 300px;"><br />
 	  <figcaption>{{ item[0] }}</figcaption>
   </figure>
+  <div class="feature-img-license">
+     <div class="feature-img-license-c"><span class="icon"><i class="fa fa-info-circle"></i></span></div>
+     <div class="feature-img-license-text"><p>{{ item[1].caption }}</p></div>
+  </div>
 {% endfor %}
