@@ -20,7 +20,7 @@ imageLicense: "{{site.data.images.CodeName.caption}}"
 
 {% for item in site.data.images %}
   <figure style="display: inline-block; width: 150px; height: 450px; margin: 10px; vertical-align: top;">
-	  <img src={{ item[1].src }} style="height: auto; width: 150px;"><br />
+	  <img src="{{ item[1].src }}" style="height: auto; width: 150px;"><br />
 	  <figcaption>{{ item[0] }}</figcaption>
   </figure>
 {% endfor %}
