@@ -9,8 +9,6 @@
   - text: Occurrences
     href: /data?view=MAP
   - text: ------
-  - text: Literature all
-    href: /literature
   - text: Literature from
     href: /literature/from
   - text: Literature about
