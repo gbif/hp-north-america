@@ -1,7 +1,9 @@
 # SOME NOTES TO MAKE THESE CONSISTENT:
-# name: use the common name underneath the scientific name at the top of the GBIF occurrence page; remove all spaces, dashes, etc.
+# The images here populate to https://hp-north-america.gbif-staging.org/gallery so you can check your work!
+#
+# CodeName: use the common name underneath the scientific name at the top of the GBIF occurrence page; remove all spaces, dashes, etc. to be safe
 #   src: use the "Identifier" link associated with the image on the GBIF occurrence page
-#   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence
+#   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence; link to the NA hosted portal using the GBIF ID
 
 AmericanBeaver:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111359906/original.jpg?1611858020
