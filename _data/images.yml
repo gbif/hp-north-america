@@ -5,32 +5,32 @@
 
 AmericanBeaver:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111359906/original.jpg?1611858020
-  caption: "[*Castor canadensis* Kuhl, 1820](https://www.gbif.org/occurrence/3031762993) observed in United States of America by Doug D. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+  caption: "[*Castor canadensis* Kuhl, 1820](/data?entity=3031762993) observed in United States of America by Doug D. (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 AmericanBison:
   src: https://observation.org/photos/24593338.jpg
-  caption: "[*Bison bison* (Linnaeus, 1758)](https://www.gbif.org/occurrence/2842301073) observed in United States of America by Simon Feys (licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/))"
+  caption: "[*Bison bison* (Linnaeus, 1758)](/data?entity=2842301073) observed in United States of America by Simon Feys (licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/))"
 
 BarbaryFig:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/62326418/original.jpeg?1582845556
-  caption: "[*Opuntia ficus-indica* (L.) Mill.](https://www.gbif.org/occurrence/2576249418) observed in Mexico by CarinaCR (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+  caption: "[*Opuntia ficus-indica* (L.) Mill.](/data?entity=2576249418) observed in Mexico by CarinaCR (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 CaliforniaPoppy:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/11362571/original.jpg?1508719282
-  caption: "[*Eschscholzia californica* Cham.](https://www.gbif.org/occurrence/1677336228) observed in United States of America by Roberto R. Calderón (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+  caption: "[*Eschscholzia californica* Cham.](/data?entity=1677336228) observed in United States of America by Roberto R. Calderón (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
 MarginedWhite:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/62634519/original.jpeg?1583199830
-  caption: "[*Pieris marginalis* Scudder, 1861](https://www.gbif.org/occurrence/2576249869) observed in United States of America by icosahedron (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+  caption: "[*Pieris marginalis* Scudder, 1861](/data?entity=2576249869) observed in United States of America by icosahedron (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
 
 NicholsPricklyPear:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/171390/original.JPG
-  caption: "[*Opuntia polyacantha* Haw.](https://www.gbif.org/occurrence/1562924568) observed in United States of America by mngross (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+  caption: "[*Opuntia polyacantha* Haw.](/data?entity=1562924568) observed in United States of America by mngross (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
  
 NorthernAlligatorLizard:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/7749121/original.jpeg?1494549170
-  caption: "[*Elgaria coerulea* (Wiegmann, 1828)](https://www.gbif.org/occurrence/1978812231) observed in United States of America by yerbasanta (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+  caption: "[*Elgaria coerulea* (Wiegmann, 1828)](/data?entity=1978812231) observed in United States of America by yerbasanta (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
  
 ShortBeakedCommonDolphin:
   src: https://observation.org/photos/12362160.jpg
-  caption: "[*Delphinus delphis* Linnaeus, 1758](https://www.gbif.org/occurrence/2839761555) observed in United States of America by Kasper Hendriks (licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/))"
+  caption: "[*Delphinus delphis* Linnaeus, 1758](/data?entity=2839761555) observed in United States of America by Kasper Hendriks (licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/))"
