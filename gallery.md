@@ -21,10 +21,6 @@ imageLicense: "{{site.data.images.CodeName.caption}}"
 {% for item in site.data.images %}
   <figure style="display: inline-block; width: 300px; height: auto; margin: 10px; vertical-align: top;">
 	  <img src="{{ item[1].src }}" style="height: auto; width: 300px;"><br />
-	  <figcaption>{{ item[0] }}</figcaption>
+	  <figcaption>**{{ item[0] }}**<br />{{ item[1].caption }}</figcaption>
   </figure>
-  <div class="feature-img-license">
-     <div class="feature-img-license-c"><span class="icon"><i class="fa fa-info-circle"></i></span></div>
-     <div class="feature-img-license-text"><p>{{ item[1].caption }}</p></div>
-  </div>
 {% endfor %}
