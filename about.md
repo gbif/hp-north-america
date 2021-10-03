@@ -42,3 +42,5 @@ Representatives from the following nodes and organizations are collaborating on 
 * [Abby Benson](https://www.usgs.gov/staff-profiles/abby-benson?qt-staff_profile_science_products=3#qt-staff_profile_science_products), Steering Group Member, United States Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4391-107X)
 * Dave Bloom, Steering Group Member, Vertnet Node Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
 * [Sharon Grant](https://www.fieldmuseum.org/about/staff/profile/11), Steering Group Member, Field Museum IPT Manager [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
+* Kent McFarland, Steering Group Member, Vermont Center for Ecostudies [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-7809-5503)
+* Teresa Mayfield, Steering Group Member, Museum of Southwestern Biology [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1970-7044)
