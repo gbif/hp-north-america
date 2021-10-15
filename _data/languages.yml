@@ -1,9 +1,12 @@
 en:
   label: English
   icon:  # optional
+  logo: /assets/images/NA-GBIF-en.svg
 es:
   label: Español
   icon:  # optional
+  logo: /assets/images/NA-GBIF-es.svg
 fr:
   label: Français
   icon:  # optional
+  logo: /assets/images/NA-GBIF-fr.svg
