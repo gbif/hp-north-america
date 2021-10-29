@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   IPT installations, and other organizations/stakeholders to inspire collaboration and 
   discussion of shared goals, challenges, and opportunities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-north-america.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.gbif-north-america.org" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -40,7 +40,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 # for usage in the standard privacy layout
 privacy:
   name: GBIF North America Region
-  domain: hp-north-america.gbif.org
+  domain: gbif-north-america.org
   contactEmail: gbif.na.helpdesk@gmail.com
   helpdeskEmail: gbif.na.helpdesk@gmail.com
 
