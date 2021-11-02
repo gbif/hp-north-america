@@ -1,1 +1,6 @@
 url: "https://hp-north-america.gbif-staging.org"
+
+siteMeasurements:
+  enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  GA_ID: "G-6N8KF1QV98" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  termsVersion: "2021-08-03" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
