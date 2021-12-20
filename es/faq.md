@@ -33,6 +33,8 @@ height: 70vh
 > * [Canadá](https://www.gbif.org/country/CA/summary)
 > * [México](https://www.gbif.org/country/MX/summary)
 > 
+> Los códigos de país (ISO 3166-1-alpha-2) utilizados para filtrar los datos en el portal son : "US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP".
+> 
 > Haga clic [aquí](https://www.gbif.org/es/analytics/region/NORTH_AMERICA) para ver las tendencias en la disponibilidad de datos en la red de GBIF, 2008 a 2021, para [la región de GBIF Norteamérica](https://www.gbif.org/es/the-gbif-network/north-america).
 
 #### ¿Cómo puedo compartir datos de biodiversidad en GBIF?

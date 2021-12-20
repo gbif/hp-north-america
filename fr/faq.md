@@ -33,7 +33,9 @@ permalink: /fr/faq
 > * [États-Unis](https://www.gbif.org/fr/country/US/summary) et ses territoires : [UM](https://www.gbif.org/fr/country/UM/summary), [PR](https://www.gbif.org/fr/country/PR/summary), [VI](https://www.gbif.org/fr/country/VI/summary), [AS](https://www.gbif.org/fr/country/AS/summary), [GU](https://www.gbif.org/fr/country/GU/summary), [MP](https://www.gbif.org/fr/country/MP/summary)
 > * [Canada](https://www.gbif.org/fr/country/CA/summary)
 > * [Mexico](https://www.gbif.org/fr/country/MX/summary)
-
+> 
+> Les codes de pays (ISO 3166-1-alpha-2) utilisés pour définir la portée des données présentées sur ce portail sont : "US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP".
+> 
 > Cliquez [ici](https://www.gbif.org/analytics/region/NORTH_AMERICA) afin de voir les tendances sur l'accessibilité des données sur GBIF, de 2008 à 2021, pour la [région GBIF de l'Amérique du Nord](https://www.gbif.org/fr/the-gbif-network/north-america).
 
 #### Comment puis-je partager des données de biodiversité avec GBIF ?
