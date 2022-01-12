@@ -55,6 +55,7 @@ La communauté d'Amérique du Nord comprend plus de 300 fournisseurs de données
 <a name="networks"></a>Networks
 ------------
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
+- [Canadensys](https://data.canadensys.net/)
 - [CONABIO](https://www.gbif.org/publisher/ff90b050-c256-11db-b71b-b8a03c50a862)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
