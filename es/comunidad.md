@@ -53,6 +53,7 @@ La comunidad de América del Norte tiene más de 300 publicadores de [Canadá](h
 <a name="networks"></a>Redes
 ------------
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
+- [Canadensys](https://www.gbif-north-america.org/community)
 - [CONABIO](https://www.gbif.org/publisher/ff90b050-c256-11db-b71b-b8a03c50a862)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
