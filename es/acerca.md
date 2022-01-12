@@ -36,3 +36,14 @@ El contenido de este portal se logra con la colaboración de representantes de l
 * [VertNet](https://www.gbif.org/node/d205def7-82c3-472a-be4b-31d11dcd51fd)
 * [iDigBio](https://www.gbif.org/node/f9332bd7-7435-4741-b45a-5fe2887533ec)
 * [Field Museum](https://www.gbif.org/publisher/7b8aff00-a9f8-11d8-944b-b8a03c50a862)
+
+## Miebmros del Grupo Directivo
+
+* Dave Bloom, Representante Regional para América del Norte, Director del Nodo VertNet [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
+* Carole Sinou, Representante Regional Adjunta para América del Norte, Directora del Nodo Canadensys [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6718-6669) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/carolesinou/)
+* [Abby Benson](https://www.usgs.gov/staff-profiles/abby-benson?qt-staff_profile_science_products=3#qt-staff_profile_science_products), Miembro del Grupo Directivo, Directora del Nodo de Estados Unidos [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4391-107X)
+* [Sharon Grant](https://www.fieldmuseum.org/about/staff/profile/11), Miembro del Grupo Directivo, Directora del IPT del Museo Field [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
+* [David Jennings](https://www.idigbio.org/contact/David_Jennings), miembro del grupo directivo, director del nodo iDigBio [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-0520-6983) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/jenningsdt/)
+* Kent McFarland, miembro del grupo directivo, Centro de Estudios Ecológicos de Vermont [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-7809-5503)
+* Teresa Mayfield, miembro del grupo directivo, Museo de Biología del Suroeste [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1970-7044)
+
