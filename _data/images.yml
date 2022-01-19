@@ -44,4 +44,4 @@ ShortBeakedCommonDolphin:
 
 SnowyOwl:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/109147960/original.jpg
-  caption: "[*Bubo scandiacus* (Linnaeus, 1758)](/data?entity=3018078948&view=TABLE) observed in United States of America by rod1111 (licensed under [CC BY-NC-ND 4.0]http://creativecommons.org/licenses/by-nc/4.0/))"
+  caption: "[*Bubo scandiacus* (Linnaeus, 1758)](/data?entity=3018078948&view=TABLE) observed in United States of America by rod1111 (licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
