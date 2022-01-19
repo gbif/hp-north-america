@@ -10,7 +10,7 @@ imageLicense: "{{site.data.images.SnowyOwl.caption}}"
 
 **The next North America Regional Meeting will be held on Tuesday, January 25, at 16:00 UTC (i.e., 09:00 Pacific / 10:00 Mountain / 11:00 Central / 12:00 Eastern).**
 
-We invite all North America stakeholders to attend our regional meeting via Zoom (registration required): https://ufl.zoom.us/meeting/register/tJ0kcequqDwuE9PK0VFgBVw-QHE8OD1T6OZE 
+We invite all North America stakeholders to attend our regional meeting via Zoom (registration required): https://ufl.zoom.us/meeting/register/tJIrf-CrqzgvGNxU5M9aM3lbquS0EGN3rPvl 
 
 After registering, you will receive a confirmation email containing information about how to join the meeting.
 
