@@ -2,7 +2,7 @@
 title:  "Reunión regional de América del Norte - enero de 2022"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
-lang: en
+lang: es
 lang-ref: NA-Regional-Jan2022
 background: "{{site.data.images.SnowyOwl.src}}"
 imageLicense: "{{site.data.images.SnowyOwl.caption}}"
