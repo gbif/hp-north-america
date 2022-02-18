@@ -9,7 +9,7 @@ var siteConfig = {
       lat: 60.0344351910359,
       lng: -111.28467879517733,
       zoom: 0.9115440763665068
-    }
+    },
     rootPredicate: {
        "type": "and",
        "predicates": [
