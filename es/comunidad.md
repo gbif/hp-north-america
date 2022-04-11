@@ -44,7 +44,9 @@ height: 50vh
 - Integrated Taxonomic Information System
 - Natural Science Collections Alliance
 - NatureServe
+- Symbiota
 - Taxonomic Databases Working Group
+- VertNet
 
 <a name="publishers"></a>Publicadores
 ------------
