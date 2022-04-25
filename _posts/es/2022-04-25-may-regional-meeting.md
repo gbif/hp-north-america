@@ -2,7 +2,7 @@
 title:  "Reunión de los nodos regionales de América del Norte - 31 de mayo de 2022"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
-lang: en
+lang: es
 lang-ref: NA-Regional-May2022
 background: "{{site.data.images.Columbine.src}}"
 imageLicense: "{{site.data.images.Columbine.caption}}"
