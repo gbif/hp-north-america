@@ -5,6 +5,20 @@ description: The following images are available for use in pages and posts on th
 lang: en
 lang-ref: gallery
 ---
+
+<script type="text/javascript" 
+ src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<div id="google_translate_element"></div> 
+
+
 # Image Gallery
 
 ## Instructions
