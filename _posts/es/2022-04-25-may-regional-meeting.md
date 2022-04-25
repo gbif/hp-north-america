@@ -1,5 +1,5 @@
 ---
-title:  "Reunión de los nodos regionales de América del Norte - 31 de mayo de 2022"
+title:  "Reunión de los nodos regionales de América del Norte<br>31 de mayo de 2022"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: es
