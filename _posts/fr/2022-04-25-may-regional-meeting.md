@@ -1,5 +1,5 @@
 ---
-title:  "Réunion des nœuds régionaux d'Amérique du Nord - 31 mai 2022"
+title:  "Réunion des nœuds régionaux d'Amérique du Nord<br>31 mai 2022"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: fr
