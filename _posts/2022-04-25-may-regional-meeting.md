@@ -1,5 +1,6 @@
 ---
-title:  "North America Regional Nodes Meeting - May 31, 2022"
+title:  "North America Regional Nodes Meeting"
+title:  "May 31, 2022"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: en
