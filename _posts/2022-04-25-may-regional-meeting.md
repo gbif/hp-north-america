@@ -15,7 +15,7 @@ We invite all North America nodes staff and community stakeholders to attend the
 You will receive a confirmation email containing information about how to join the meeting after completing the registration form.
 
 ### Agenda
-This year we will review the GBIF Nodes Strategy, update the community on the activities of the North American Nodes, and feature a hands-on workshop on the Registry of Scientific Collections (GrSciColl) and the forthcoming Collection Description Standard (CD). Participants will learn about [GRSciColl](https://www.gbif.org/grscicoll), now hosted and maintained in the [GBIF registry](https://registry.gbif.org/): what it is, who it is for, and how it relates to other systems like [Index Herbariorum](http://sweetgum.nybg.org/science/ih/), [iDigBio](https://www.idigbio.org/portal/collections), and GBIF publishers, datasets, and specimen-related occurrences.
+This year we will review the GBIF Nodes Strategy, update the community on the activities of the North American Nodes, and feature a hands-on workshop on the Registry of Scientific Collections (GrSciColl) and the forthcoming Collection Description Standard (LtC). Participants will learn about [GRSciColl](https://www.gbif.org/grscicoll), now hosted and maintained in the [GBIF registry](https://registry.gbif.org/): what it is, who it is for, and how it relates to other systems like [Index Herbariorum](http://sweetgum.nybg.org/science/ih/), [iDigBio](https://www.idigbio.org/portal/collections), and GBIF publishers, datasets, and specimen-related occurrences.
 
 We’ll also hear about the progress of the Collection Description Standard (Latimer Core Collection Description Metadata Schema, or LtC). The standard is currently being prepared for submission to TDWG for public review.
 
