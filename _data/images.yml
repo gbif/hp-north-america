@@ -49,3 +49,8 @@ SnowyOwl:
 Columbine:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/182648688/original.jpeg
   caption: "[*Aquilegia coerulea James*](/data?entity=3743295460&view=TABLE) observed in United States of America by garciaamanda (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
+HarbourSeal:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/175853699/original.jpeg
+  caption: "[*Phoca vitulina subsp. vitulina*](/data/?filter=eyJtdXN0Ijp7ImNhdGFsb2dOdW1iZXIiOlt7InR5cGUiOiJsaWtlIiwidmFsdWUiOiIxMDQ4ODc1NzYifSwiMTA0ODg3NTc2Il19fQ%3D%3D&view=TABLE) observed in United States of America by Kevin Lynch (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+  
