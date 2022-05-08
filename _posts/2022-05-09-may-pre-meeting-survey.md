@@ -8,7 +8,7 @@ background: "{{site.data.images.HarbourSeal.src}}"
 imageLicense: "{{site.data.images.HarbourSeal.caption}}"
 ---
 
-**Complete the survey and help us to identify the needs of the North American data-sharing community.**
+**[Complete the survey](https://forms.gle/1ky4EgNLhS5tjCFp9) and help us to identify the needs of the North American data-sharing community.**
 
 Are you....
 
@@ -20,8 +20,8 @@ Are you....
 
 **...just a regular person** involved with biodiversity data? First of all, nobody is just "regular" in this business. Second, we still want to know what you think, so please share it with us.
 
-Please complete [the survey form](https://forms.gle/1ky4EgNLhS5tjCFp9 ) **before May 24th, 23:59 Pacific Time.**
+Please complete [the survey form](https://forms.gle/1ky4EgNLhS5tjCFp9) **before May 24th, 23:59 Pacific Time.**
 
 If you haven't done so yet, please [register for the Regional Meeting](https://umontreal.zoom.us/meeting/register/tZIkceqhrzMoHtMuOdI3XrQ14baTlE_Br3bg) and mark your calendar for May 31, at 16:30 UTC (i.e., 09:30 Pacific / 10:30 Mountain / 11:30 Central / 12:30 Eastern).
 
-[Learn more about the meeting](https://github.com/gbif/hp-north-america/blob/master/_posts/2022-04-25-may-regional-meeting.md).
+[Learn more about the meeting](https://www.gbif-north-america.org/post/2022/may-regional-meeting/).
