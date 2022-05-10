@@ -16,7 +16,7 @@ Are you....
 
 **...unable to attend** the meeting? This is a great way to contribute to the conversation and make your thoughts known while you are elsewhere.
 
-**...a Node Manager or Head of Delegation** to a NA GBIF Node? Then we definitely need to hear from you about your efforts for the coming year.
+**...a Node Manager or Head of Delegation** to a NA GBIF Node? Then we definitely need to hear about your successes from the last year and your efforts for the coming year.
 
 **...just a regular person** involved with biodiversity data? First of all, nobody is just "regular" in this business. Second, we still want to know what you think, so please share it with us.
 
