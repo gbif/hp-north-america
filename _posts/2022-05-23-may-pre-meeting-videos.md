@@ -11,10 +11,10 @@ imageLicense: |
 #imageLicense: "{{site.data.images.SailFish.caption}}"
 ---
 
-In preparation for the 2022 North American Nodes Meeting on May 31st the GBIF Secretariat has prepared a series of videos detailing some of GBIF's current programs and priorities.
+In preparation for the 2022 North American Nodes Meeting on May 31st, the GBIF Secretariat has prepared a series of videos detailing some of GBIF's current programs and priorities.
 
 Please [watch these videos](https://vimeo.com/showcase/9515918) in advance of the May 31st meeting and bring your thoughts and questions for discussion. Videos include:
-- New Startigic Framework
+- New Strategic Framework
 - Thematic Approach
 - Data Use Club 2022
 - GRSciColl
