@@ -1,5 +1,5 @@
 ---
-title:  "Vidéos de pré-réunion du GBIF pour la réunion des nœuds régionaux d'Amérique du Nord"
+title:  "Vidéos préparatoires du GBIF pour la réunion des nœuds régionaux d'Amérique du Nord"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: fr
@@ -26,7 +26,7 @@ D'autres vidéos pourront être ajoutées par le Secrétariat au cours des proch
 
 ### N'oubliez pas
 
-Remplissez [le formulaire d'enquête](https://forms.gle/1ky4EgNLhS5tjCFp9) **avant le 24 mai, 23:59 heure du Pacifique.**
+Remplissez [le sondage](https://forms.gle/1ky4EgNLhS5tjCFp9) **avant le 24 mai, 23:59 heure du Pacifique.**
 
 Si vous ne l'avez pas encore fait, veuillez [vous inscrire à la réunion régionale](https://umontreal.zoom.us/meeting/register/tZIkceqhrzMoHtMuOdI3XrQ14baTlE_Br3bg) et marquer votre calendrier pour le 31 mai, à 16h30 UTC (c'est-à-dire 09h30 Pacifique / 10h30 Montagne / 11h30 Central / 12h30 Est).
 
