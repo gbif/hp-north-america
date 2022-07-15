@@ -37,6 +37,6 @@ height: 70vh
 > 
 > Click [here](https://www.gbif.org/analytics/region/NORTH_AMERICA) to view trends in data availability on the GBIF network, 2008 to 2021, for the [GBIF North America region](https://www.gbif.org/the-gbif-network/north-america).
 
-#### How can I share biodiveristy data with GBIF?
+#### How can I share biodiversity data with GBIF?
 
 > The most common way to share data is via the [Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt). You can learn more about becoming a data publisher here: <https://www.gbif.org/become-a-publisher>  
