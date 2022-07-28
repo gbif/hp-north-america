@@ -3,7 +3,7 @@ layout: heroImage
 title: Calendario de eventos regionales de América del Norte
 description:
 lang: es
-lang-ref: evento
+lang-ref: events
 background: "{{site.data.images.RNPheasant.src}}"
 imageLicense: "{{site.data.images.RNPheasant.caption}}"
 height: 70vh
