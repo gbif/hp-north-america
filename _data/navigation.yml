@@ -19,18 +19,6 @@
   href: /news/
 - text: Events
   href: /events/
-# - text: Documentation
-#  menu: # Dropdown menu (one level deep only)
-#   - text: Base theme demo
-#     href: https://hp-base-theme.gbif-staging.org/
-#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-#   - text: "Docs" # Title for block of menu items
-  - text: GBIF
-    href: https://www.gbif.org/
-  - text: Darwin Core
-    href: https://dwc.tdwg.org/
-  - text: Audubon Core
-    href: https://www.tdwg.org/standards/ac/
 - text: Help
   menu: # Dropdown menu (one level deep only)
   - text: GBIF NA Regional Help Desk
