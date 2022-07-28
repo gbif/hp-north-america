@@ -2,7 +2,7 @@
 layout: heroImage
 title: Calendrier des événements régionaux en Amérique du Nord
 description:
-lang: en
+lang: fr
 lang-ref: events
 background: "{{site.data.images.RNPheasant.src}}"
 imageLicense: "{{site.data.images.RNPheasant.caption}}"
