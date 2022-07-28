@@ -1,6 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Acerca de nosotros
+- text: Acerca de
   href: /es/acerca
 - text: Comunidad
   href: /es/comunidad
@@ -8,20 +8,10 @@
   href: /es/datos?view=MAP
 - text: FAQ
   href: /es/faq
-- text: Eventos y noticias
+- text: Noticias
   href: /es/noticias/
-- text: Documentación
-  menu: # Dropdown menu (one level deep only)
-#   - text: Base theme demo
-#     href: https://hp-base-theme.gbif-staging.org/
-#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-#   - text: "Docs" # Title for block of menu items
-  - text: GBIF
-    href: https://www.gbif.org/
-  - text: Darwin Core
-    href: https://dwc.tdwg.org/
-  - text: Audubon Core
-    href: https://www.tdwg.org/standards/ac/
+- text: Eventos
+  href: /es/eventos/
 - text: Ayuda
   menu: # Dropdown menu (one level deep only)
   - text: Mesa de ayuda para la región GBIF de América del Norte
@@ -30,3 +20,9 @@
     href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
   - text: Embajadores de datos abiertos sobre biodiversidad de GBIF
     href: https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
+  - text: Audubon Core
+    href: https://www.tdwg.org/standards/ac/
