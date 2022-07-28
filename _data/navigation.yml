@@ -19,8 +19,8 @@
   href: /news/
 - text: Events
   href: /events/
-- text: Documentation
-  menu: # Dropdown menu (one level deep only)
+# - text: Documentation
+#  menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
 #     href: https://hp-base-theme.gbif-staging.org/
 #   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
@@ -39,8 +39,6 @@
     href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
   - text: GBIF Biodiversity Open Data Ambassadors
     href: https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors
-  - text: Documentation
-    menu: # Dropdown menu (one level deep only)
   - text: GBIF
     href: https://www.gbif.org/
   - text: Darwin Core
