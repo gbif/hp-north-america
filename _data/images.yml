@@ -61,3 +61,9 @@ SailFish:
 RNPheasant:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/111730282/original.jpeg
   caption: "[*Phasianus colchicus* (Linnaeus, 1758)](/data/?filter=eyJtdXN0Ijp7InllYXIiOlt7InR5cGUiOiJlcXVhbHMiLCJ2YWx1ZSI6IjIwMjEifV0sImRhdGFzZXRLZXkiOlsiNTBjOTUwOWQtMjJjNy00YTIyLWE0N2QtOGM0ODQyNWVmNGE3Il0sInRheG9uS2V5IjpbIjI0NzM3MzgiXSwic3RhdGVQcm92aW5jZSI6W3sidHlwZSI6Imxpa2UiLCJ2YWx1ZSI6IkNhbGlmb3JuaWEifV19fQ%3D%3D&view=GALLERY) observed in United States of America by Andrew Johnson. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2022-07-27 (licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))"
+
+RedLeggedFrog:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/5979402/original.jpg
+  caption: "[*Rana draytonii* (Baird & Girard, 1852)](/data/?entity=1453337572&taxonKey=2422253&view=TABLE&year=2017) observed in United States of America by Tony Iwane (licensed under [CC BY-NC 4.0](http://creativecommons).
+ 
+  
