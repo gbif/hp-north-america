@@ -1,6 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About Us
+- text: About
   href: /about
 - text: Community
   href: /community
@@ -15,8 +15,10 @@
     href: /literature/about
 - text: FAQ
   href: /faq
-- text: Events & News
+- text: News
   href: /news/
+- text: Events
+  href: /events/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
@@ -37,3 +39,9 @@
     href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
   - text: GBIF Biodiversity Open Data Ambassadors
     href: https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
+  - text: Audubon Core
+    href: https://www.tdwg.org/standards/ac/
