@@ -39,6 +39,8 @@
     href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
   - text: GBIF Biodiversity Open Data Ambassadors
     href: https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors
+  - text: Documentation
+    menu: # Dropdown menu (one level deep only)
   - text: GBIF
     href: https://www.gbif.org/
   - text: Darwin Core
