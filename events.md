@@ -9,7 +9,7 @@ imageLicense: "{{site.data.images.RNPheasant.caption}}"
 height: 70vh
 ---
 
-### Please contact the NA Regional Helpdesk [gbif.na.helpdesk@gmail.com](gbif.na.helpdesk@gmail.com) if you would like to add or suggest an event for the calendar.
+### Please contact the NA Regional Helpdesk [mailto:gbif.na.helpdesk@gmail.com](gbif.na.helpdesk@gmail.com) if you would like to add or suggest an event for the calendar.
 
 *All dates are subject to change; not all events are the responsibility of, or organized by, the GBIF North America Regional Steering Group.
 
