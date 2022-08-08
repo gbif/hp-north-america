@@ -9,6 +9,7 @@ imageLicense: "{{site.data.images.RNPheasant.caption}}"
 height: 70vh
 ---
 
+<!-- Support User Time Zone in Embedded Google Calendar -->
 <!-- https://stackoverflow.com/questions/31821974/support-user-time-zone-in-embedded-google-calendar -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.js" integrity="sha512-gPgCxBK1xjsllNvxhv6tdK4IU2lH7c5a/O9kg9y73K1+hDC4TUlkHz0pLfL6jyS7RrghnscJutlzvAiAojHh+w==" crossorigin="anonymous"></script>
