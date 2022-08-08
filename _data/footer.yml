@@ -28,7 +28,7 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       * [Help Desk](mailto:gbif.na.helpdesk@gmail.com)
-      * [Slack](https://gbif-north-america.slack.com)
+      * [Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A)
     connectIcons: false
 other: |
   [Privacy policy](/privacy)
