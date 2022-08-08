@@ -21,8 +21,8 @@ Después de registrarse, recibirá un correo electrónico de confirmación con i
 * Evolución del grupo directivo regional
 
 ### ¡Unirse a la conversación!
-* GBIF NA Slack: [https://bit.ly/JoinNASlack](https://bit.ly/JoinNASlack)
-* GBIF NA Listserv: [https://groups.google.com/g/gbif-na](https://groups.google.com/g/gbif-na)
+* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A)
+* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
 
 ### Materiales y recursos de la reunión (solo vista):
 * [Presentación](https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/)
