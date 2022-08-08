@@ -21,7 +21,7 @@ Après votre inscription, vous recevrez un courriel de confirmation contenant de
 * Planification de la réunion d'engagement de la région NA
 
 ### Participez à la conversation!
-* GBIF NA Slack: [https://bit.ly/JoinNASlack](https://bit.ly/JoinNASlack)
-* GBIF NA Listserv: [https://groups.google.com/g/gbif-na](https://groups.google.com/g/gbif-na)
+* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A)
+* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
 
 <!--- ### Matériels et ressources de la réunion (visualisation uniquement): --->
