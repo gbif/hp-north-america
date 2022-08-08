@@ -15,7 +15,7 @@ height: 70vh
 2. Solicit ideas for better coordination across the region, define roles and responsibilities, and clarify the pathway for data mobilization.
 3. Encourage future projects to participate in the community using the outcomes from the first two goals.
 
-To meet those goals, the North America Regional Steering Group has implemented quarterly regional meetings and has created a [North America Slack Workspace](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A).
+To meet those goals, the North America Regional Steering Group has implemented quarterly regional meetings and has created a [North America Slack Workspace](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw).
 
 If you need assistance with applying data standards, sharing your data, or how to access GBIF North America data, you can reach out to the [GBIF North America helpdesk](mailto:gbif.na.helpdesk@gmail.com).
 
