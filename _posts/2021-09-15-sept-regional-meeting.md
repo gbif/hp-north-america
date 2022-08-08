@@ -21,8 +21,8 @@ After registering, you will receive a confirmation email containing information 
 * Evolution of regional steering group
 
 ### Join the conversation!
-* GBIF NA Slack: [https://bit.ly/JoinNASlack](https://bit.ly/JoinNASlack)
-* GBIF NA Listserv: [https://groups.google.com/g/gbif-na](https://groups.google.com/g/gbif-na)
+* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A)
+* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
 
 ### Materials and resources from the meeting (view only):
 * [Presentation](https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/)
