@@ -21,7 +21,7 @@ Después de inscribirse, recibirá un correo electrónico de confirmación con i
 * Planificación de la Reunión Regional de Compromiso de NA
 
 ### ¡Únase a la conversación!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A)
+* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
 * [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
 
 <!--- ### Materiales y recursos de la reunión (sólo para ver): --->
