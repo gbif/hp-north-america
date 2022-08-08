@@ -16,7 +16,7 @@ permalink: /es/acerca
 2. Compartir ideas para mejorar la coordinación en toda la región, definir las funciones y responsabilidades y aclarar la vía para la movilización de datos.
 3. Promover proyectos para participar en la comunidad, con base en los resultados de los primeros dos objetivos.
 
-Para cumplir estos objetivos, el Grupo Directivo Regional de América del Norte ha organizado reuniones regionales trimestrales y ha creado [un espacio de trabajo en Slack para América del Norte](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A).
+Para cumplir estos objetivos, el Grupo Directivo Regional de América del Norte ha organizado reuniones regionales trimestrales y ha creado [un espacio de trabajo en Slack para América del Norte](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw).
 
 Si necesita ayuda para utilizarlos estándares de datos, compartir sus datos, o para acceder a los datos de GBIF de América del Norte, puede contactar con [el servicio de ayuda de GBIF América del Norte](mailto:gbif.na.helpdesk@gmail.com).
 
