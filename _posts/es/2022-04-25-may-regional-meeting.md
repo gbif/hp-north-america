@@ -27,7 +27,7 @@ A continuación se celebrará una sesión práctica en la que los participantes 
 * Vincular las entradas de GRSciColl con las ocurrencias relacionadas con los especímenes de GBIF cuando sea posible
 
 ### ¡Únase a la conversación!
-* GBIF NA Slack: [https://bit.ly/JoinNASlack](https://bit.ly/JoinNASlack)
-* GBIF NA Listserv: [https://groups.google.com/g/gbif-na](https://groups.google.com/g/gbif-na)
+* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A)
+* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
 
 <!--- ### Materials and resources from the meeting (view only): --->
