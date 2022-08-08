@@ -16,7 +16,7 @@ permalink: /fr/apropos
 2. Solliciter les idées menant à une meilleure coordination à travers la région, définir les rôles et responsabilités, et clarifier le chemin vers la mobilisation des données.
 3. Encourager les futurs projets à prendre part dans la communauté, en utilisant les bénéfices et résultats des deux premiers objectifs.
 
-Afin d'atteindre ces objectifs, le comité de gestion pour la région Amérique du Nord a mis en place des rencontres régionales trimestrielles et a créer un [espace de travail collaboratif régional sur Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-w5etdc1s-q1DBOYQ5WUCYTj4t~nLk1A).
+Afin d'atteindre ces objectifs, le comité de gestion pour la région Amérique du Nord a mis en place des rencontres régionales trimestrielles et a créer un [espace de travail collaboratif régional sur Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw).
 
 Si vous avez besoin d'aide à propos des standards de données, du partage de vos données ou sur la manière d'accéder aux données de GBIF pour la région Amérique du Nord, vous pouvez contacter le service d'aide pour la région : <gbif.na.helpdesk@gmail.com>
 
