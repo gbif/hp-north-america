@@ -20,4 +20,7 @@ Après votre inscription, vous recevrez un courriel de confirmation contenant de
 * Mises à jour sur les nœuds de l'AN
 * Planification de la réunion d'engagement de la région NA
 
-<!--- ### Matériels et ressources de la réunion (visualisation uniquement): --->
+### Diapositives de la réunion (visualisation uniquement):
+* [Présentation](https://docs.google.com/presentation/d/1gewmh8nsWIoAyo-27OrQaXGcGgjQibdgtxHej4cSOtE/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4MBgsV0LpwBs5EyK1P4sN3MPnPkBAnOU1jkR1ZfzMqq_xeyteCLxh_Ionp3g7uycs3lu1D10i_vFD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
