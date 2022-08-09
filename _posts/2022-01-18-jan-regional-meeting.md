@@ -20,8 +20,4 @@ After registering, you will receive a confirmation email containing information 
 * NA Nodes updates
 * Planning for the NA Regional Engagement Meeting
 
-### Join the conversation!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
-
 <!--- ### Materials and resources from the meeting (view only): --->
