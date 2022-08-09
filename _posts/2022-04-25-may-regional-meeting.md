@@ -26,8 +26,4 @@ This will be followed by a practical session, where participants will contribute
 * Identifying and setting up relevant master sources when possible
 * Linking their GRSciColl entries to GBIF specimen-related occurrences when possible
 
-### Join the conversation!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
-
 <!--- ### Materials and resources from the meeting (view only): --->
