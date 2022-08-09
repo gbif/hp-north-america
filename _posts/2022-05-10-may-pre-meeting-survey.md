@@ -3,7 +3,7 @@ title:  "Pre-Survey for 2022 North America Regional Nodes Meeting"
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: en
-lang-ref: NA-Regional-May2022
+lang-ref: NA-Regional-Survey-May2022
 background: "{{site.data.images.HarbourSeal.src}}"
 imageLicense: "{{site.data.images.HarbourSeal.caption}}"
 ---
