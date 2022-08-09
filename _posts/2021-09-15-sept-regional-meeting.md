@@ -20,10 +20,6 @@ After registering, you will receive a confirmation email containing information 
 * Prepare for Regional Representative election
 * Evolution of regional steering group
 
-### Join the conversation!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
-
 ### Materials and resources from the meeting (view only):
 * [Presentation](https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/)
 <iframe src="https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
