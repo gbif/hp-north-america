@@ -26,8 +26,14 @@ More videos may be added by the Secretariat over the next few months.
 
 ### Don't Forget
 
-Complete [the survey form](https://forms.gle/1ky4EgNLhS5tjCFp9) **before May 24th, 23:59 Pacific Time.**
+Complete the survey form (link removed) **before May 24th, 23:59 Pacific Time.**
+
+[comment]: <> ([This is a comment, it will not be included](Original survey link - https://forms.gle/1ky4EgNLhS5tjCFp9))
 
 If you haven't done so yet, please [register for the Regional Meeting](https://umontreal.zoom.us/meeting/register/tZIkceqhrzMoHtMuOdI3XrQ14baTlE_Br3bg) and mark your calendar for May 31, at 16:30 UTC (i.e., 09:30 Pacific / 10:30 Mountain / 11:30 Central / 12:30 Eastern).
 
 [Learn more about the meeting](https://www.gbif-north-america.org/post/2022/may-regional-meeting/).
+
+### Slides from the meeting (view only):
+* [Presentation](https://docs.google.com/presentation/d/1jMaSLb2IKSG5fQxMQCovncRe_d0jHRllBAz-mpyz3Qk/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdn7AsPXe923pxqoTr5bAVkY0iOqQdPN-JH0ViPpKIYaQwqO8b8kGZytOWnBwrevR2Mdtc7jipyjjv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
