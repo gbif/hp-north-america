@@ -20,4 +20,6 @@ After registering, you will receive a confirmation email containing information 
 * NA Nodes updates
 * Planning for the NA Regional Engagement Meeting
 
-<!--- ### Materials and resources from the meeting (view only): --->
+### Slides from the meeting (view only):
+* [Presentation](https://docs.google.com/presentation/d/1gewmh8nsWIoAyo-27OrQaXGcGgjQibdgtxHej4cSOtE/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4MBgsV0LpwBs5EyK1P4sN3MPnPkBAnOU1jkR1ZfzMqq_xeyteCLxh_Ionp3g7uycs3lu1D10i_vFD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
