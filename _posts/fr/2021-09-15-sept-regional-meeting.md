@@ -20,10 +20,6 @@ Après votre inscription, vous recevrez un e-mail de confirmation contenant des 
 * Préparation à l'élection du représentant régional
 * Evolution du groupe de pilotage régional
 
-### Rejoindre la conversation!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
-
 ### Matériels et resources de cette rencontre (lecture seulement) :
 * [Présentation](https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/)
 <iframe src="https://docs.google.com/presentation/d/19xma_rmXYVqbmxC3l7fU3uPkKBKWwGzYlrjKhG9pSaQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
