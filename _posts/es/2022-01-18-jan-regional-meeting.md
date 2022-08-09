@@ -20,4 +20,6 @@ Después de inscribirse, recibirá un correo electrónico de confirmación con i
 * Actualizaciones de los nodos de NA
 * Planificación de la Reunión Regional de Compromiso de NA
 
-<!--- ### Materiales y recursos de la reunión (sólo para ver): --->
+### Slides from the meeting (view only):
+* [Presentation](https://docs.google.com/presentation/d/1gewmh8nsWIoAyo-27OrQaXGcGgjQibdgtxHej4cSOtE/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4MBgsV0LpwBs5EyK1P4sN3MPnPkBAnOU1jkR1ZfzMqq_xeyteCLxh_Ionp3g7uycs3lu1D10i_vFD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
