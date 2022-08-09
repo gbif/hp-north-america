@@ -20,8 +20,4 @@ Après votre inscription, vous recevrez un courriel de confirmation contenant de
 * Mises à jour sur les nœuds de l'AN
 * Planification de la réunion d'engagement de la région NA
 
-### Participez à la conversation!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
-
 <!--- ### Matériels et ressources de la réunion (visualisation uniquement): --->
