@@ -3,7 +3,7 @@ title:  "Vidéos préparatoires du GBIF pour la réunion des nœuds régionaux d
 date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: fr
-lang-ref: NA-Regional-May2022
+lang-ref: NA-Regional-Videos-May2022
 background: /assets/images/SailFish.jpeg
 imageLicense: |
   *Istiophorus albicans* (Latreille, 1804)](/data/?catalogNumber=84233&collectionCode=Ich&entity=863157020&view=TABLE) Harvard University M, Morris P J (2022). Museum of Comparative Zoology, Harvard University. Version 162.316. Museum of Comparative Zoology, Harvard University. Occurrence dataset https://doi.org/10.15468/p5rupv accessed via GBIF.org on 2022-05-22 (licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
