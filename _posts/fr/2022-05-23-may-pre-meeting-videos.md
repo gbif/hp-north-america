@@ -26,8 +26,12 @@ D'autres vidéos pourront être ajoutées par le Secrétariat au cours des proch
 
 ### N'oubliez pas
 
-Remplissez [le sondage](https://forms.gle/1ky4EgNLhS5tjCFp9) **avant le 24 mai, 23:59 heure du Pacifique.**
+Remplissez le sondage (lien retiré) **avant le 24 mai, 23:59 heure du Pacifique.**
 
 Si vous ne l'avez pas encore fait, veuillez [vous inscrire à la réunion régionale](https://umontreal.zoom.us/meeting/register/tZIkceqhrzMoHtMuOdI3XrQ14baTlE_Br3bg) et marquer votre calendrier pour le 31 mai, à 16h30 UTC (c'est-à-dire 09h30 Pacifique / 10h30 Montagne / 11h30 Central / 12h30 Est).
 
 [Pour en savoir plus sur la réunion](https://www.gbif-north-america.org/post/2022/may-regional-meeting/).
+
+### Diapositives de la réunion (visualisation uniquement):
+* [Présentation](https://docs.google.com/presentation/d/1jMaSLb2IKSG5fQxMQCovncRe_d0jHRllBAz-mpyz3Qk/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdn7AsPXe923pxqoTr5bAVkY0iOqQdPN-JH0ViPpKIYaQwqO8b8kGZytOWnBwrevR2Mdtc7jipyjjv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
