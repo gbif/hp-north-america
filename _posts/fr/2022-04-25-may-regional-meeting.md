@@ -25,8 +25,4 @@ Elle sera suivie d'une session pratique, au cours de laquelle les participants a
 * Identifier et mettre en place des sources principales pertinentes lorsque cela est possible.
 * Relier leurs entrées GRSciColl aux occurrences liées aux spécimens du GBIF lorsque cela est possible.
 
-### Participez à la conversation!
-* [GBIF NA Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-* [GBIF NA Listserv](https://groups.google.com/g/gbif-na)
-
 <!--- ### Materials and resources from the meeting (view only): --->
