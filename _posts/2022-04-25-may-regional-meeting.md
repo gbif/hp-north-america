@@ -26,4 +26,6 @@ This will be followed by a practical session, where participants will contribute
 * Identifying and setting up relevant master sources when possible
 * Linking their GRSciColl entries to GBIF specimen-related occurrences when possible
 
-<!--- ### Materials and resources from the meeting (view only): --->
+### Slides from the meeting (view only):
+* [Presentation](https://docs.google.com/presentation/d/1jMaSLb2IKSG5fQxMQCovncRe_d0jHRllBAz-mpyz3Qk/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdn7AsPXe923pxqoTr5bAVkY0iOqQdPN-JH0ViPpKIYaQwqO8b8kGZytOWnBwrevR2Mdtc7jipyjjv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
