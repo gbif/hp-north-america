@@ -66,4 +66,7 @@ RedLeggedFrog:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/5979402/original.jpg
   caption: "[*Rana draytonii* (Baird & Girard, 1852)](/data/?entity=1453337572&taxonKey=2422253&view=TABLE&year=2017) observed in United States of America by Tony Iwane (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
  
-  
+PonderosaPineCone:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/76637340/original.jpg
+  caption: "[*Pinus ponderosa Douglas ex C.Lawson*](/data/?entity=2634140090&filter=eyJtdXN0Ijp7InllYXIiOlt7InR5cGUiOiJlcXVhbHMiLCJ2YWx1ZSI6IjIwMjAifV0sImluc3RpdHV0aW9uQ29kZSI6WyJpTmF0dXJhbGlzdCJdLCJtb250aCI6WyI2Il0sInRheG9uS2V5IjpbIjI2ODQyNDEiXSwic3RhdGVQcm92aW5jZSI6WyJ3eW9taW5nIix7InR5cGUiOiJsaWtlIiwidmFsdWUiOiJXeW9taW5nIn1dfX0%3D&view=TABLE) observed in United States of America by Jimena (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
+
