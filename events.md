@@ -14,7 +14,7 @@ height: 70vh
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.js" integrity="sha512-gPgCxBK1xjsllNvxhv6tdK4IU2lH7c5a/O9kg9y73K1+hDC4TUlkHz0pLfL6jyS7RrghnscJutlzvAiAojHh+w==" crossorigin="anonymous"></script>
 
-Please contact the [NA Regional Helpdesk](mailto:gbif.na.helpdesk@gmail.com) if you would like to add or suggest an event for the calendar.
+Please contact the [NA Regional Helpdesk](mailto:gbif.na.helpdesk@gmail.com) if you would like to add or suggest an event for the calendar. Be sure to provide us with the name of the event, location if in person or link if virtual, event dates, time and time zone, and URLs for any event information and registration locations.
 
 *All dates are subject to change; not all events are the responsibility of, or organized by, the GBIF North America Regional Steering Group.*
 
