@@ -1,7 +1,7 @@
 ---
 title:  "Save the Date: North America Quarterly Regional Meeting - November 2022"
 date:   2022-01-18 10:00:00 -0700
-categories: ["Regional Meetings"]
+categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Q3-Q4-Regional-SaveTheDate
 background: "{{site.data.images.GopherSnake.src}}"
