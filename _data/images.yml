@@ -70,3 +70,6 @@ PonderosaPineCone:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/76637340/original.jpg
   caption: "[*Pinus ponderosa Douglas ex C.Lawson*](/data/?entity=2634140090&filter=eyJtdXN0Ijp7InllYXIiOlt7InR5cGUiOiJlcXVhbHMiLCJ2YWx1ZSI6IjIwMjAifV0sImluc3RpdHV0aW9uQ29kZSI6WyJpTmF0dXJhbGlzdCJdLCJtb250aCI6WyI2Il0sInRheG9uS2V5IjpbIjI2ODQyNDEiXSwic3RhdGVQcm92aW5jZSI6WyJ3eW9taW5nIix7InR5cGUiOiJsaWtlIiwidmFsdWUiOiJXeW9taW5nIn1dfX0%3D&view=TABLE) observed in United States of America by Jimena (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
 
+GopherSnake:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/110819298/original.jpg
+  caption: "[* Pituophis catenifer subsp. catenifer*](/data/?entity=3032140428&taxonKey=7190560&view=TABLE) observed in United States of America by graham_coop (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
