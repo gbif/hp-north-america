@@ -10,7 +10,7 @@ imageLicense: "{{site.data.images.GopherSnake.caption}}"
 
 ## Save the Date
 
-**Our next North America Regional Meeting will be held on Thursday, November 10, at 18:30 UTC (i.e., 09:30 Pacific / 10:30 Mountain / 11:30 Central / 12:30 Eastern).**
+**Our next North America Regional Meeting will be held on Thursday, November 10, at 09:30 Pacific / 10:30 Mountain / 11:30 Central / 12:30 Eastern / 18:30 UTC+1.**
 
 Please mark your calendars.
 
