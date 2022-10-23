@@ -73,3 +73,7 @@ PonderosaPineCone:
 GopherSnake:
   src: https://inaturalist-open-data.s3.amazonaws.com/photos/110819298/original.jpg
   caption: "[* Pituophis catenifer subsp. catenifer*](/data/?entity=3032140428&taxonKey=7190560&view=TABLE) observed in United States of America by graham_coop (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))"
+
+Mantis:
+  src: https://inaturalist-open-data.s3.amazonaws.com/photos/202031318/original.jpg
+  caption: "[*Tenodera sinensis Saussure, 1871*](/data/?catalogNumber=119510210&publishingOrg=28eb1a3f-1c15-4a95-931a-4af90ecb574d&taxonKey=788&view=TABLE) observed in United States of America by Peter Wilson (licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/))"
