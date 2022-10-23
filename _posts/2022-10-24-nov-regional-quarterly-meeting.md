@@ -4,8 +4,8 @@ date:   2022-01-18 10:00:00 -0700
 categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Q3-Q4-Regional-Meeting
-background: "{{site.data.images.GopherSnake.src}}"
-imageLicense: "{{site.data.images.GopherSnake.caption}}"
+background: "{{site.data.images.Mantis.src}}"
+imageLicense: "{{site.data.images.Mantis.caption}}"
 ---
 
 **Please join the GBIF North America Steering Group at the next 2022 North America Regional Quarterly meeting on November 10th, 9:30-11:00 Pacific/11:30-13:00 Central.**
