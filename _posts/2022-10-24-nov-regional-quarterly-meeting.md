@@ -27,6 +27,7 @@ For our final meeting of 2022 we have many things to share with the community, i
    * Camera Trap data mapping
    * The Latimer Core (Collections Description)
    * TDWG Material Sample Development
+   * Hosted portal update
    * Updates from Arctos and the Symbiota Support Hub
 * …and announcements about upcoming events and activities in the NA Regional in 2023
 
