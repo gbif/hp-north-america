@@ -36,18 +36,18 @@ height: 50vh
 - [États-Unis](https://www.gbif.org/fr/country/US/summary)
 
 ### Noeuds Associés
-- Biodiversity Heritage Library
-- Canadensys
-- Consortium for the Barcode of Life
-- Discover Life
-- Encyclopedia of Life
-- iDigBio
-- Integrated Taxonomic Information System
-- Natural Science Collections Alliance
-- NatureServe
-- Symbiota Support Hub
-- Taxonomic Databases Working Group
-- VertNet
+- [Biodiversity Heritage Library](https://www.gbif.org/participant/366)
+- [Canadensys](https://www.gbif.org/participant/365)
+- [Discover Life](https://www.gbif.org/participant/289)
+- [Encyclopedia of Life](https://www.gbif.org/participant/291)
+- [iDigBio](https://www.gbif.org/participant/375)
+- [Integrated Taxonomic Information System](https://www.gbif.org/participant/295)
+- [International Barcode of Life](https://www.gbif.org/participant/353)
+- [Natural Science Collections Alliance](https://www.gbif.org/participant/301)
+- [NatureServe](https://www.gbif.org/participant/302)
+- [Symbiota Support Hub](https://www.gbif.org/participant/429)
+- [Taxonomic Databases Working Group](https://www.gbif.org/participant/309)
+- [VertNet](https://www.gbif.org/participant/361)
 
 <a name="publishers"></a>Fournisseurs de données
 ------------
@@ -64,10 +64,10 @@ La communauté d'Amérique du Nord comprend plus de 300 fournisseurs de données
 
 <a name="cms"></a>Systèmes de gestion des collections
 ------------
-- Arctos
-- EMu
-- Specify
-- Symbiota
+- [Arctos](https://arctosdb.org/)
+- [EMu](https://www.axiell.com/solutions/product/emu/)
+- [Specify](https://www.specifysoftware.org/)
+- [Symbiota](https://symbiota.org/)
 
 <a name="installations"></a>Installations
 ------------
