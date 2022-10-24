@@ -39,11 +39,11 @@ El contenido de este portal se logra con la colaboración de representantes de l
 
 ## Miebmros del Grupo Directivo
 
-* Dave Bloom, Representante Regional para América del Norte, Director del Nodo VertNet [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
-* Carole Sinou, Representante Regional Adjunta para América del Norte, Directora del Nodo Canadensys [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6718-6669) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/carolesinou/)
+* [Dave Bloom](https://www.gbif.org/contact-us/directory?personId=2808&group=nsg), Representante Regional para América del Norte, Director del Nodo VertNet [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
+* [Carole Sinou](https://www.gbif.org/contact-us/directory?personId=3917&group=nsg), Representante Regional Adjunta para América del Norte, Directora del Nodo Canadensys [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-6718-6669) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/carolesinou/)
 * [Abby Benson](https://www.usgs.gov/staff-profiles/abby-benson?qt-staff_profile_science_products=3#qt-staff_profile_science_products), Miembro del Grupo Directivo, Directora del Nodo de Estados Unidos [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-4391-107X)
 * [Sharon Grant](https://www.fieldmuseum.org/about/staff/profile/11), Miembro del Grupo Directivo, Directora del IPT del Museo Field [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
-* [David Jennings](https://www.idigbio.org/contact/David_Jennings), miembro del grupo directivo, director del nodo iDigBio [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-0520-6983) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/jenningsdt/)
+* [David Jennings](https://www.gbif.org/contact-us/directory?personId=3940&group=nsg), miembro del grupo directivo, director del nodo iDigBio [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-0520-6983) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/jenningsdt/)
 * Kent McFarland, miembro del grupo directivo, Centro de Estudios Ecológicos de Vermont [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-7809-5503)
 * Teresa Mayfield, miembro del grupo directivo, Museo de Biología del Suroeste [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-1970-7044)
 
