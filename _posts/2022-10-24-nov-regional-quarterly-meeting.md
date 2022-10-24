@@ -10,8 +10,8 @@ imageLicense: "{{site.data.images.Mantis.caption}}"
 
 **Please join the GBIF North America Steering Group at the next 2022 North America Regional Quarterly meeting on November 10th, 9:30-11:00 Pacific/11:30-13:00 Central.**
 
-We invite all nodes staff and community members to attend via Zoom:
-[LINK](Registration in required)
+We invite all nodes staff and community members to attend via Zoom (registration is required):
+[https://ufl.zoom.us/meeting/register/tJcuf-6gqj4jGNIqAeBFj9CQPVkp9ZlSjl3V](https://ufl.zoom.us/meeting/register/tJcuf-6gqj4jGNIqAeBFj9CQPVkp9ZlSjl3V)
 
 You will receive a confirmation email containing a meeting link once you have completed the registration form.
 
@@ -29,6 +29,6 @@ For our final meeting of 2022 we have many things to share with the community, i
    * TDWG Material Sample Development
    * Hosted portal update
    * Updates from Arctos and the Symbiota Support Hub
-* …and announcements about upcoming events and activities in the NA Regional in 2023
+* …and announcements about upcoming events and activities in the NA Region in 2023
 
 We look forward to seeing you there.
