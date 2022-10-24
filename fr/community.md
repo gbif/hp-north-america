@@ -26,7 +26,12 @@ height: 50vh
 
 # Communauté de Participants de la région GBIF Amérique du Nord 
 ------------------------------
-(listé alphabéticalement)
+## Représentants régionaux de l'Amérique du Nord
+
+- [David Bloom](https://www.gbif.org/contact-us/directory?personId=2808), Représentant régional, VertNet
+- [Carole Sinou](https://www.gbif.org/contact-us/directory?personId=3917), Représentant régional adjoint, Canadensys
+
+(Les sections ci-dessous sont classées par ordre alphabétique)
 
 <a name="nodes"></a>Noeuds Participants
 ------------
