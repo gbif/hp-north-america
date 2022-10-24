@@ -19,7 +19,7 @@ columns:
       href: https://www.gbif.org/the-gbif-network/north-america
     - text: Colaboradores del portal
       href: https://hp-north-america.gbif-staging.org/about#collaborators
-   - text: GBIF.org
+    - text: GBIF.org
       href: https://www.gbif.org/
       
   - name: Comentarios
