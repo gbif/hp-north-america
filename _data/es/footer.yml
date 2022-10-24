@@ -19,7 +19,9 @@ columns:
       href: https://www.gbif.org/the-gbif-network/north-america
     - text: Colaboradores del portal
       href: https://hp-north-america.gbif-staging.org/about#collaborators
-
+   - text: GBIF.org
+      href: https://www.gbif.org/
+      
   - name: Comentarios
     description: | # Can be Markdown
       [Cree un nuevo problema de GitHub](https://github.com/gbif/hp-north-america/issues/new) para solicitar una función, informar un error o proporcionar comentarios.
