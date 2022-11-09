@@ -9,10 +9,8 @@
   - text: Occurrences
     href: /data?view=MAP
   - text: ------
-  - text: Literature from
-    href: /literature/from
-  - text: Literature about
-    href: /literature/about
+  - text: Literature
+    href: /literature
 - text: FAQ
   href: /faq
 - text: News
