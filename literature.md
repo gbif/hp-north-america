@@ -12,12 +12,12 @@ permalink: /literature
           {
             type: 'in',
             key: 'countriesOfResearcher',
-            values: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"]
+            values: ['US', 'CA', 'MX', 'UM', 'PR', 'VI', 'AS', 'GU', 'MP']
           },
           {
             type: 'in',
             key: 'countriesOfCoverage',
-            values: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"]
+            values: ['US', 'CA', 'MX', 'UM', 'PR', 'VI', 'AS', 'GU', 'MP']
           }
         ]
       }
