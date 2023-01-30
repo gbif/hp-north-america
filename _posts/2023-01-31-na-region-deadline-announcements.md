@@ -30,4 +30,4 @@ On behalf of the network of national Participants, the GBIF Secretariat is pleas
 
 **The deadline for nominations is June 19, 2023.** Please review the complete [GBIF announcement](https://www.gbif.org/news/6gyLOum00YsYc4OtVGK33Y/call-for-nominations-to-the-2023-gbif-graduate-researchers-award).
 
-Note from the NA Steering Group - it's been a long time since we had a recipient from Canada. We know there must be some worthy candidates out there. [Please let us know](mailto: gbif.na.helpdesk@gmai) if you would like to submit a nomination.
+Note from the NA Steering Group - it's been a long time since we had a recipient from Canada. We know there must be some worthy candidates out there. [Please contact Carloe Sinou](mailto: canadensys.network@gmail.com) for assistance with a nomination.
