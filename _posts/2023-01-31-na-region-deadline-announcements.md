@@ -1,11 +1,11 @@
 ---
 title:  "North America Regional Announcements"
-date:   2022-01-18 10:00:00 -0700
+date:   2023-01-30
 categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Q1-announcements
-background: "{{site.data.images.Mantis.src}}"
-imageLicense: "{{site.data.images.Mantis.caption}}"
+background: "{{site.data.images.Lichen.src}}"
+imageLicense: "{{site.data.images.Lichen.caption}}"
 ---
 
 Welcome to 2023! To begin the year, the NA Steering Group would like to share three announcements with the community.
@@ -14,7 +14,7 @@ Welcome to 2023! To begin the year, the NA Steering Group would like to share th
 
 The NA Steering Committee wishes to acknowledge [Carole Sinou](https://www.gbif.org/contact-us/directory?personId=3917), of Canadensys. Carole has served as the Deputy Regional Representative for the last two terms (four years). Due to term limits she must step down, at least for a little while. We wish to thank Carole for all of her service to the North American community and we are pleased that she will remain a member of the NA Steering Group.
 
-Elections fill the role of Deputy Regional Representative will take place in March, 2023. If you are the Node Manager for GBIF node in North America and you would like to throw your hat into the ring, please notify the Steering Group [via email](mailto: gbif.na.helpdesk@gmail.com) or [Slack](https://gbif-north-america.slack.com/join/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw#/shared-invite/email). The Deputy's term is for two years, beginning in March. The Deputy will also become a member of the NA Steering Group.
+Elections to fill the role of Deputy Regional Representative will take place in March, 2023. If you are the Node Manager for a GBIF node in North America and you would like to throw your hat into the ring, please notify the Steering Group [via email](mailto: gbif.na.helpdesk@gmail.com) or [Slack](https://gbif-north-america.slack.com/join/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw#/shared-invite/email). The Deputy's term is for two years, beginning in April. The Deputy will also become a member of the NA Steering Group.
 
 **Nominations must be submitted before March 1st.**
 
