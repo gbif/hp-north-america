@@ -4,6 +4,9 @@ title: Image Gallery
 description: The following images are available for use in pages and posts on this site.
 lang: en
 lang-ref: gallery
+toc: true
+toc-depth: 2.0
+toc-title: Table of Contents
 ---
 
 <script type="text/javascript" 
