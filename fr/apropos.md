@@ -40,7 +40,7 @@ Des représentants des noeuds et institutions suivants collaborent au contenu de
 ## Membres du Comité directeur
 
 * [Dave Bloom](https://www.gbif.org/contact-us/directory?personId=2808&group=nsg), Représentant régional Amérique du Nord, Gestionnaire du noeud Vertnet [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-1273-1807)
-* [JJ Dearborn](https://www.gbif.org/contact-us/directory?personId=4379), Membre du Comité directeur, Gestionnaire du noeud des Biodiversity Heritage Library [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-4783-382X)
+* [JJ Dearborn](https://www.gbif.org/contact-us/directory?personId=4379), Membre du Comité directeur, Gestionnaire du noeud Biodiversity Heritage Library [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-4783-382X)
 * [Stephen Formel](https://www.usgs.gov/index.php/staff-profiles/stephen-k-formel), Membre du Comité directeur, Gestionnaire du noeud des États-Unis [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0001-7418-1244)
 * [Sharon Grant](https://www.fieldmuseum.org/about/staff/profile/11), Membre du Comité directeur, Gestionnaire de l'IPT du Field Museum [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0002-0201-732X)
 * [David Jennings](https://www.gbif.org/contact-us/directory?personId=3940&group=nsg), Membre du Comité directeur, Gestionnaire du noeud iDigBio [![ORCiD](/assets/images/200px-ORCID_iD.png){:width="16px"}](https://orcid.org/0000-0003-0520-6983) [![LinkedIn](/assets/images/In-2C-128px-R.png){:width="16px"}](https://www.linkedin.com/in/jenningsdt/)
