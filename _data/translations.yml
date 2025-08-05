@@ -21,3 +21,13 @@ rejectTerms:
   en: 'Reject'
   es: 'Rechazar'
   fr: 'Rejeter'
+contentTypes:
+  DataUse:
+    en: 'Data use'
+    fr: 'Utilisation des données'
+  News:
+    en: 'News'
+    fr: 'Nouvelles'
+  Event:
+    en: 'Event'
+    fr: 'Événement'

@@ -1,0 +1,28 @@
+# "Stories" Block Configuration Guide
+
+# Title (Optional)
+title: "Relevant Data Use from GBIF.org" 
+id: "stories-data-use"
+
+# Description (Optional)
+description:  This shows the three most recent data-use items from GBIF.org in which countries in North America are tagged. To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=dataUse&countriesOfCoverage=CA&countriesOfCoverage=US&countriesOfCoverage=MX)
+ 
+# Filters
+# Use these options to tailor the content displayed in your block.
+filters:
+  contentType: 
+    - DATA_USE
+  # Set the number of items to showcase. Default is 6.
+  limit: 3
+
+  # Filter content by researcher's country using ISO country codes. (Optional)
+  countriesOfResearcher: 
+    - CA
+    - US
+    - MX
+
+  # Filter content by country or coverage using ISO country codes. (Optional)
+  countriesOfCoverage:
+    - CA
+    - US
+    - MX
