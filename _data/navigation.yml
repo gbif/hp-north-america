@@ -14,7 +14,11 @@
 - text: FAQ
   href: /faq
 - text: News
-  href: /news/
+  menu: 
+    - text: News
+      href: /news/
+    - text: GBIF News
+      href: /stories
 - text: Events
   href: /events/
 - text: Help
@@ -31,5 +35,3 @@
     href: https://dwc.tdwg.org/
   - text: Audubon Core
     href: https://www.tdwg.org/standards/ac/
-  - text: News
-    href: /stories
