@@ -5,7 +5,7 @@ title: "Relevant Data Use from GBIF.org"
 id: "stories-data-use"
 
 # Description (Optional)
-description:  This shows the three most recent data-use items from GBIF.org in which countries in North America are tagged. To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=dataUse&countriesOfCoverage=CA&countriesOfCoverage=US&countriesOfCoverage=MX)
+description:  This shows the three most recent data-use items from GBIF.org in which countries in North America are tagged. To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=dataUse&countriesOfCoverage=US&countriesOfCoverage=CA&countriesOfCoverage=MX&countriesOfCoverage=UM&countriesOfCoverage=PR&countriesOfCoverage=VI&countriesOfCoverage=AS&countriesOfCoverage=GU&countriesOfCoverage=MP)
  
 # Filters
 # Use these options to tailor the content displayed in your block.
@@ -20,9 +20,21 @@ filters:
     - CA
     - US
     - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP
 
   # Filter content by country or coverage using ISO country codes. (Optional)
   countriesOfCoverage:
     - CA
     - US
     - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP

@@ -5,7 +5,7 @@ title: "Nouvelles de GBIF.org"
 id: "stories-news"
 
 # Description (Optional)
-description:  Cette section présente les plus récentes nouvelles mentionnant les pays d'Amérique du Nord. Pour accéder des nouvelles plus anciennes, visitez  [gbif.org](https://www.gbif.org/resource/search?contentType=news&countriesOfCoverage=US&countriesOfCoverage=CA&countriesOfCoverage=MX)
+description:  Cette section présente les plus récentes nouvelles mentionnant les pays d'Amérique du Nord. Pour accéder à des nouvelles plus anciennes, visitez [gbif.org](https://www.gbif.org/resource/search?contentType=news&countriesOfCoverage=US&countriesOfCoverage=CA&countriesOfCoverage=MX&countriesOfCoverage=UM&countriesOfCoverage=PR&countriesOfCoverage=VI&countriesOfCoverage=AS&countriesOfCoverage=GU&countriesOfCoverage=MP)
  
 # Filters
 # Use these options to tailor the content displayed in your block.
@@ -22,3 +22,9 @@ filters:
     - CA
     - US
     - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP

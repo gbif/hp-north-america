@@ -5,7 +5,7 @@ title: "Relevant News from GBIF.org"
 id: "stories-news"
 
 # Description (Optional)
-description:  This shows the three most recent news items from GBIF.org in which countries in North America is tagged.  To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=news&countriesOfCoverage=CA)
+description:  This shows the three most recent news items from GBIF.org in which countries in North America are tagged. To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=news&countriesOfCoverage=US&countriesOfCoverage=CA&countriesOfCoverage=MX&countriesOfCoverage=UM&countriesOfCoverage=PR&countriesOfCoverage=VI&countriesOfCoverage=AS&countriesOfCoverage=GU&countriesOfCoverage=MP)
  
 # Filters
 # Use these options to tailor the content displayed in your block.
@@ -22,3 +22,9 @@ filters:
     - CA
     - US
     - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP
