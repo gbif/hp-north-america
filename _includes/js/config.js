@@ -51,7 +51,7 @@ var siteConfig = {
     // filters on the grscicoll institution v1 API https://www.gbif.org/developer/summary
     // https://hp-theme.gbif-staging.org/data-exploration-config
     rootFilter: {
-      country: "US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP",
+      country: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"],
       displayOnNHCPortal: true,
       active: true
     },
