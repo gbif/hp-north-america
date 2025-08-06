@@ -1,6 +1,6 @@
 ---
 title: Literature
-description: We publish open data
+description: Explore the literature enabled by data published by the North America Region.
 permalink: /fr/literature/search
 layout: literature
 lang-ref: literature
