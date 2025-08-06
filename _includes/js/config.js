@@ -60,7 +60,7 @@ var siteConfig = {
 
   institution: {
     rootFilter: {
-      country: "US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP",
+      country: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"],
       displayOnNHCPortal: true,
       active: true
     },
@@ -74,7 +74,7 @@ var siteConfig = {
   },
 
   dataset: {
-    rootFilter: { publishingCountry: "US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP" },
+    rootFilter: { publishingCountry: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"] },
     highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode'],
   },
