@@ -57,8 +57,7 @@ var siteConfig = {
 
   institution: {
     rootFilter: {
-      //country: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"],
-      country: 'US',
+      country: ["US", "CA", "MX", "UM", "PR", "VI", "AS", "GU", "MP"],
       displayOnNHCPortal: true,
       active: true
     },
