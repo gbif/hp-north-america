@@ -29,7 +29,6 @@ height: 50vh
 ## Représentants régionaux de l'Amérique du Nord
 
 - [David Bloom](https://www.gbif.org/contact-us/directory?personId=2808), Représentant régional, VertNet
-- [Carole Sinou](https://www.gbif.org/contact-us/directory?personId=3917), Représentant régional adjoint, Canadensys
 
 (Les sections ci-dessous sont classées par ordre alphabétique)
 
@@ -128,6 +127,6 @@ Pour de plus amples informations, contactez directement ces installations
 Autres portails hébergés en Amérique du Nord
 ----------
 [GBIF-US](https://www.gbif.us)     
-[Canadian Biodiversity Portal](https://hp-canadian-biodiversity.gbif-staging.org/)     
+[Canadensys](https://www.canadensys.net/)    
 [VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
 => [Tous les portails hébergés par GBIF](https://dev.gbif.org/hosted-portals.html)    
