@@ -5,12 +5,17 @@
 - text: Community
   href: /community
 - text: Data
-  menu: # Dropdown menu (one level deep only)
-  - text: Occurrences
-    href: /data?view=MAP
-  - text: ------
-  - text: Literature
-    href: /literature
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Collections
+      href: /collection/search
+    - text: Institutions
+      href: /institution/search
+    - text: Datasets
+      href: /dataset/search
+    - text: Literature
+      href: /Literature/search
 - text: FAQ
   href: /faq
 - text: News

@@ -5,7 +5,17 @@
 - text: Communauté
   href: /fr/community
 - text: Données
-  href: /fr/data?view=MAP
+  menu:
+    - text: Occurrences
+      href: /fr/occurrence/search
+    - text: Collections
+      href: /fr/collection/search
+    - text: Institutions
+      href: /fr/institution/search
+    - text: Jeux de données
+      href: /fr/dataset/search
+    - text: Littérature
+      href: /fr/Literature/search
 - text: FAQ
   href: /fr/faq
 - text: Nouvelles
