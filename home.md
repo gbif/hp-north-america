@@ -6,8 +6,11 @@ title: GBIF North America Region
 description: The North America Region strives to bring together representatives from GBIF Nodes, 
   IPT installations, and other organizations/stakeholders to inspire collaboration and 
   discussion of shared goals, challenges, and opportunities.
-background: "{{site.data.images.BarbaryFig.src}}"
-imageLicense: "{{site.data.images.BarbaryFig.caption}}"
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/462409721/original.jpg
+imageLicense: |
+  <em>Callipepla californica</em> (Shaw, 1798). Photo by M.R. Perry via [iNaturalist](https://www.inaturalist.org/observations/257745386)
+#background: "{{site.data.images.BarbaryFig.src}}"
+#imageLicense: "{{site.data.images.BarbaryFig.caption}}"
 height: 75vh
 cta:
   - text: Start exploring
