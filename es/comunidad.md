@@ -126,6 +126,5 @@ Para mayor información contacta directamente a estas instalaciones
 Otros Portales de América del Norte
 ----------
 [GBIF-US](https://www.gbif.us)     
-[Canadensys](https://www.canadensys.net/)      
-[VertNet](https://hp-vertnet-plus.gbif-staging.org/)    
+[Canadensys](https://www.canadensys.net/)        
 => [Portales alojados en GBIF](https://dev.gbif.org/hosted-portals.html) 
