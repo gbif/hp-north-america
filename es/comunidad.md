@@ -33,12 +33,12 @@ height: 50vh
 
 <a name="nodes"></a>Nodos Participantes
 ------------
-## Nodos Votantes
+### Nodos Votantes
 - [Canadá](https://www.gbif.org/es/country/CA/summary)
 - [México](https://www.gbif.org/es/country/MX/summary)
 - [Estados Unidos](https://www.gbif.org/es/country/US/summary)
 
-## Nodos Asociados
+### Nodos Asociados
 - [Biodiversity Heritage Library](https://www.gbif.org/participant/366)
 - [Canadensys](https://www.gbif.org/participant/365)
 - [Discover Life](https://www.gbif.org/participant/289)
@@ -74,13 +74,13 @@ La comunidad de América del Norte tiene más de 300 publicadores de [Canadá](h
 
 <a name="installations"></a>Instalaciones
 ------------
-## Aceptando publicadores adicionales
+### Aceptando publicadores adicionales
 Para mayor información contacta directamente a estas instalaciones
 - [GBIF-US](https://bison.usgs.gov/ipt/)
 - [Canadensys](http://data.canadensys.net/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
 
-## Otras instalaciones
+### Otras instalaciones
 - American Museum of Natural History
 - Berkeley Natural History Museums
 - California Academy of Sciences
