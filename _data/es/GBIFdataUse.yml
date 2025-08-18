@@ -1,0 +1,40 @@
+# "Stories" Block Configuration Guide
+
+# Title (Optional)
+title: "Uso de datos norteamericanos procedentes de GBIF.org" 
+id: "stories-data-use"
+
+# Description (Optional)
+description:  Esta sección presenta las últimas noticias sobre el uso de datos que mencionan a los países de América del Norte. Para acceder a noticias más antiguas, visite [gbif.org](https://www.gbif.org/resource/search?contentType=dataUse&countriesOfCoverage=US&countriesOfCoverage=CA&countriesOfCoverage=MX&countriesOfCoverage=UM&countriesOfCoverage=PR&countriesOfCoverage=VI&countriesOfCoverage=AS&countriesOfCoverage=GU&countriesOfCoverage=MP) 
+
+# Filters
+# Use these options to tailor the content displayed in your block.
+filters:
+  contentType: 
+    - DATA_USE
+  # Set the number of items to showcase. Default is 6.
+  limit: 3
+
+  # Filter content by researcher's country using ISO country codes. (Optional)
+  countriesOfResearcher: 
+    - CA
+    - US
+    - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP
+
+  # Filter content by country or coverage using ISO country codes. (Optional)
+  countriesOfCoverage:
+    - CA
+    - US
+    - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP

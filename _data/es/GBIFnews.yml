@@ -1,0 +1,30 @@
+# "Stories" Block Configuration Guide
+
+# Title (Optional)
+title: "Noticias de GBIF.org" 
+id: "stories-news"
+
+# Description (Optional)
+description:  Esta sección presenta las últimas noticias relacionadas con los países de América del Norte. Para acceder a noticias más antiguas, visite [gbif.org](https://www.gbif.org/resource/search?contentType=news&countriesOfCoverage=US&countriesOfCoverage=CA&countriesOfCoverage=MX&countriesOfCoverage=UM&countriesOfCoverage=PR&countriesOfCoverage=VI&countriesOfCoverage=AS&countriesOfCoverage=GU&countriesOfCoverage=MP)
+ 
+# Filters
+# Use these options to tailor the content displayed in your block.
+filters:
+  # Content Type Filter (Optional)
+  # Define which types of content to display. If unspecified, all types are shown.
+  contentType: 
+    - NEWS
+  # Set the number of items to showcase. Default is 6.
+  limit: 3
+
+  # Filter content by country or coverage using ISO country codes. (Optional)
+  countriesOfCoverage:
+    - CA
+    - US
+    - MX
+    - UM
+    - PR
+    - VI
+    - AS
+    - GU
+    - MP
