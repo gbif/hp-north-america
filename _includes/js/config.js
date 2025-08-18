@@ -97,4 +97,4 @@ var siteConfig = {
   },
 };
 
-if (pageLang === 'es')  {siteConfig.routes.occurrenceSearch.route = '/datos';}
+//if (pageLang === 'es')  {siteConfig.routes.occurrenceSearch.route = '/datos';}
