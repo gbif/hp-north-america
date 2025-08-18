@@ -4,12 +4,28 @@
   href: /es/acerca
 - text: Comunidad
   href: /es/comunidad
+#- text: Datos
+#  href: /es/datos?view=MAP
 - text: Datos
-  href: /es/datos?view=MAP
+  menu:
+    - text: Ocurrencias
+      href: /es/occurrence/search
+    - text: Colecciones
+      href: /es/collection/search
+    - text: Instituciones
+      href: /es/institution/search
+    - text: Conjuntos de datos
+      href: /es/dataset/search
+    - text: Literatura
+      href: /es/literature/search
 - text: FAQ
   href: /es/faq
 - text: Noticias
-  href: /es/noticias/
+  menu:
+  - text: Noticias
+    href: /es/noticias/
+  - text: Noticias de GBIF
+    href: /es/stories
 - text: Eventos
   href: /es/eventos/
 - text: Ayuda
