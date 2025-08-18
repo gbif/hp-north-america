@@ -4,8 +4,8 @@ layout: compose
 klass: compositionBlocks
 lang-ref: GBIFstories
 lang: fr
-title: Nouvelles nord-américaines pertinantes provenant GBIF.org
-description: Cette page présente des nouvelles, des infos sur l'utilisation des données et des évènements de GBIF
+title: Nouvelles nord-américaines pertinentes provenant GBIF.org
+description: Cette page présente des nouvelles sur l'utilisation des données et des évènements de GBIF
 composition:
 - type: stories
   data: fr.GBIFdataUse
