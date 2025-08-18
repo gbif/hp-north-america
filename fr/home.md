@@ -4,10 +4,10 @@ lang-ref: home
 layout: home
 title: GBIF Amérique du Nord
 description: La région de l'Amérique du Nord à pour objectif de connecter les représentants des noeuds GBIF, des installations IPT, et de toutes les autres organisations et acteurs afin de favoriser les collaborations et les discussions autour de buts, défis et opportunités en commun.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/465058479/original.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/465058195/original.jpg
 imageLicense: |
-  <em>Callipepla californica</em> (Shaw, 1798). Photo by Andrew Thomas via [iNaturalist](https://www.inaturalist.org/observations/259118016)
-height: 85vh
+  <em>Spinus tristis</em> (Linnaeus, 1758). Photo by Andrew Thomas via [iNaturalist](https://www.inaturalist.org/observations/259118022)
+height: 75vh
 cta:
   - text: Explorez les données
     href: /fr/data
