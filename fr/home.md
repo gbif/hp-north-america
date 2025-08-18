@@ -10,7 +10,7 @@ imageLicense: |
 height: 75vh
 cta:
   - text: Explorez les données
-    href: /fr/data
+    href: /fr/occurrence/search
     isPrimary: true
   - text: À Propos
     href: /fr/apropos

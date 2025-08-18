@@ -10,7 +10,7 @@ imageLicense: |
 height: 75vh
 cta:
   - text: Empiece a explorar
-    href: /es/datos
+    href: /es/occurrence/search
     isPrimary: true
   - text: Acerca de nosotros
     href: /es/acerca

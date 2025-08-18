@@ -14,7 +14,7 @@ imageLicense: |
 height: 75vh
 cta:
   - text: Start exploring
-    href: /data
+    href: /occurrence/search
     isPrimary: true
   - text: About
     href: /about
