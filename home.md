@@ -11,7 +11,7 @@ imageLicense: |
   <em>Callipepla californica</em> (Shaw, 1798). Photo by M.R. Perry via [iNaturalist](https://www.inaturalist.org/observations/257745386)
 #background: "{{site.data.images.BarbaryFig.src}}"
 #imageLicense: "{{site.data.images.BarbaryFig.caption}}"
-height: 85vh
+height: 75vh
 cta:
   - text: Start exploring
     href: /data

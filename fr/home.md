@@ -7,7 +7,7 @@ description: La région de l'Amérique du Nord à pour objectif de connecter les
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/465058479/original.jpg
 imageLicense: |
   <em>Callipepla californica</em> (Shaw, 1798). Photo by Andrew Thomas via [iNaturalist](https://www.inaturalist.org/observations/259118016)
-height: 75vh
+height: 85vh
 cta:
   - text: Explorez les données
     href: /fr/data

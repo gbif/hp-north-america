@@ -4,8 +4,9 @@ lang-ref: home
 layout: home
 title: La región de América del Norte
 description: La región de América del Norte reúne a los representantes de Nodos de GBIF, las instancias del IPT y otras organizaciones y partes interesadas para inspirar la colaboración y la discusión de los objetivos, retos y oportunidades.
-background: "{{site.data.images.BarbaryFig.src}}"
-imageLicense: "{{site.data.images.BarbaryFig.caption}}"
+background: https://www.inaturalist.org/photos/465058195?size=original
+imageLicense: |
+  <em>Spinus tristis</em> (Linnaeus, 1758). Photo by Andrew Thomas via [iNaturalist](https://www.inaturalist.org/observations/259118022)
 height: 75vh
 cta:
   - text: Empiece a explorar
