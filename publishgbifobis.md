@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Parallel Publishing to GBIF & OBIS
-description: Resources from a GBIF NA webinar presented on 12 March 2026.
+description: A GBIF North America Webinar
 lang: en
 lang-ref: publishgbifobis
 background: assets/images/20240929_Boulegeade_Sphyraena_3.JPG
@@ -12,11 +12,11 @@ toc: true
 
 ## Webinar: Parallel Publishing to GBIF & OBIS
 
-This webinar was presented on 12 March 2026 as the first part of the GBIF North America's 2026 Nodes Meeting and Training.
+This webinar was presented on 12 March 2026 as the first part of the GBIF North America 2026 Nodes Meeting and Training.
  
-**Presented by:**
+**Presenters:**
 - **Elizabeth Lawrence**, OBIS Training Officer
-- **Steven Formel**, OBIS Data Manager and Principal of The Data Patch
+- **Steven Formel**, OBIS Data Manager
 - **David Bloom**, VertNet Project Magician
 
 **Topics covered:**
@@ -29,8 +29,6 @@ This webinar was presented on 12 March 2026 as the first part of the GBIF North 
 
 <iframe src="https://drive.google.com/file/d/10N-5hfUkPoZwoNa3KN0FDospC2TpdkS-/preview" width="640" height="480"></iframe>
 
-https://drive.google.com/file/d/10N-5hfUkPoZwoNa3KN0FDospC2TpdkS-/view?usp=sharing
-
 ## Slide Decks
 
 - [Webinar Welcome and GBIF Updates](/assets/documents/Introduction&Overview_GBIFNAWebinar20260312.pdf) (.pdf)
@@ -38,7 +36,7 @@ https://drive.google.com/file/d/10N-5hfUkPoZwoNa3KN0FDospC2TpdkS-/view?usp=shari
 
 ## Q & A
 
-The following are questions and their answers as presented in the webinar chat. If a question was answered live in the webinar, it will not be included in this transcript. Some answers below have been modified for accuracy and simplicity. Please watch the video for all of the juicy details.
+The questions below were asked in the webinar chat. Some answers below have been modified for accuracy and simplicity. Please watch the video for all of the juicy details.
 
 | Question | Answer |
 |-----------|-------------|
