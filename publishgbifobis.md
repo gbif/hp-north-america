@@ -14,9 +14,9 @@ height: 70vh
 This webinar was presented on 12 March 2026 as the first part of the GBIF North America's 2026 Nodes Meeting and Training.
  
 Presented by:
-Elizabeth Lawrence, OBIS Training Officer
-Steven Formel, OBIS Data Manager and Principal of The Data Patch
-David Bloom, VertNet Project Magician
+- Elizabeth Lawrence, OBIS Training Officer
+- Steven Formel, OBIS Data Manager and Principal of The Data Patch
+- David Bloom, VertNet Project Magician
 
 Topics covered:
 - How to publish marine-focussed datasets to GBIF and OBIS simultaneously
