@@ -27,7 +27,9 @@ This webinar was presented on 12 March 2026 as the first part of the GBIF North 
 
 ## Webinar Video
 
-<iframe src="https://drive.google.com/file/d/12s4D6dhdMs8T4aWIUh_nVhZO_CxEjnUZ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10N-5hfUkPoZwoNa3KN0FDospC2TpdkS-/preview" width="640" height="480"></iframe>
+
+https://drive.google.com/file/d/10N-5hfUkPoZwoNa3KN0FDospC2TpdkS-/view?usp=sharing
 
 ## Slide Decks
 
