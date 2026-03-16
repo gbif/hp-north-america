@@ -7,18 +7,19 @@ lang-ref: publishgbifobis
 background: assets/images/20240929_Boulegeade_Sphyraena_3.JPG
 imageLicense: Photo by Emilie Boulanger, license pending
 height: 70vh
+toc: true
 ---
 
 ## Webinar: Parallel Publishing to GBIF & OBIS
 
 This webinar was presented on 12 March 2026 as the first part of the GBIF North America's 2026 Nodes Meeting and Training.
  
-Presented by:
-- Elizabeth Lawrence, OBIS Training Officer
-- Steven Formel, OBIS Data Manager and Principal of The Data Patch
-- David Bloom, VertNet Project Magician
+**Presented by:**
+- **Elizabeth Lawrence**, OBIS Training Officer
+- **Steven Formel**, OBIS Data Manager and Principal of The Data Patch
+- **David Bloom**, VertNet Project Magician
 
-Topics covered:
+**Topics covered:**
 - How to publish marine-focussed datasets to GBIF and OBIS simultaneously
 - Benefits of publishing to OBIS
 - Key differences in GBIF and OBIS publishing requirements (including some IPT tips)
@@ -30,6 +31,8 @@ Topics covered:
 
 ## Slide Decks
 
+- [Webinar Welcome and GBIF Updates](/assets/documents/Introduction&Overview_GBIFNAWebinar20260312.pdf) (.pdf)
+- [Parallel Publishing to GBIF & OBIS](/assets/documents/ParallelPublishing_GBIFNAWebinar20260312.pdf) (.pdf)
 
 
 ## OBIS Data Resources
