@@ -27,13 +27,18 @@ This webinar was presented on 12 March 2026 as the first part of the GBIF North 
 
 ## Webinar Video
 
-<iframe src="https://drive.google.com/file/d/1EbC01X4DrcLZAPqkeTex5qYMUBMmKjk3/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/drive/folders/12s4D6dhdMs8T4aWIUh_nVhZO_CxEjnUZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Slide Decks
 
 - [Webinar Welcome and GBIF Updates](/assets/documents/Introduction&Overview_GBIFNAWebinar20260312.pdf) (.pdf)
 - [Parallel Publishing to GBIF & OBIS](/assets/documents/ParallelPublishing_GBIFNAWebinar20260312.pdf) (.pdf)
 
+## Q & A
+
+| Question | Answer |
+|-----------|-------------|
+| test | test | 
 
 ## OBIS Data Resources
 Please review the Parallel Publishing to GBIF & OBIS slide deck for more links, information and tools.
