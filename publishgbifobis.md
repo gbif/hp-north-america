@@ -5,7 +5,7 @@ description: A GBIF North America Webinar
 lang: en
 lang-ref: publishgbifobis
 background: assets/images/20240929_Boulegeade_Sphyraena_3.JPG
-imageLicense: Photo by Emilie Boulanger, license pending
+imageLicense: Photo by Emilie Boulanger, Calanques National Parc in Marseille, 2024
 height: 70vh
 toc: true
 ---
