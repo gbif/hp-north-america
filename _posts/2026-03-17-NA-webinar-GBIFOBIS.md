@@ -1,6 +1,6 @@
 ---
 title:  "Webinar: Parallel Publishing to GBIF & OBIS"
-date:   2026-03-18
+date:   2026-03-17
 categories: ["Regional Meeting"]
 lang: en
 lang-ref: NA-Q1-webinar
