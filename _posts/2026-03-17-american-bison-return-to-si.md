@@ -2,7 +2,7 @@
 title:  "American Bison Return to the National Mall"
 date:   2026-03-17
 categories: ["Stampede"]
-lang: en
+lang: fr
 lang-ref: news-bison-return
 background: "{{site.data.images.AmericanBison.src}}"
 imageLicense: "{{site.data.images.AmericanBison.caption}}"
