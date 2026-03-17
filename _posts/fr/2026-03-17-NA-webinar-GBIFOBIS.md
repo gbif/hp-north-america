@@ -17,6 +17,6 @@ Le 12 mars 2026, GBIF Amérique du Nord a organisé un webinaire consacré aux t
 - Identifier et mettre en œuvre les principales différences entre la publication sur GBIF et OBIS (avec des conseils de l'IPT !)
 - Trouver des outils pour aligner vos taxons avec WoRMS
 
-Si vous l'avez manqué, pas d'inquiétude ! Vous pouvez [regarder la vidéo](LINK) dès que vous en avez le temps. Les présentations, les questions-réponses et une multitude de ressources vous attendent.
+Si vous l'avez manqué, pas d'inquiétude ! Vous pouvez [regarder la vidéo]([LINK](https://www.gbif-north-america.org/fr/publiergbifobis/)) dès que vous en avez le temps. Les présentations, les questions-réponses et une multitude de ressources vous attendent.
 
-Jetez un œil aux [ressources et enregistrements du webinaire](LINK) ! Ni vous ni vos données marines ne le regretterez !
+Jetez un œil aux [ressources et enregistrements du webinaire](https://www.gbif-north-america.org/fr/publiergbifobis/) ! Ni vous ni vos données marines ne le regretterez !
