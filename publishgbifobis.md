@@ -20,7 +20,7 @@ This webinar was presented on 12 March 2026 as the first part of the GBIF North 
 - **David Bloom**, VertNet Project Magician
 
 **Topics covered:**
-- How to publish marine-focussed datasets to GBIF and OBIS simultaneously
+- How to publish marine-focused datasets to GBIF and OBIS simultaneously
 - Benefits of publishing to OBIS
 - Key differences in GBIF and OBIS publishing requirements (including some IPT tips)
 - Tools to align your taxa with WoRMS
@@ -48,7 +48,7 @@ The questions below were asked in the webinar chat. Some answers below have been
 | Can [these processes] be used to identify species while in the field? | No. Sorry. |
 | If I have a dataset published on GBIF, what is the preferred way or best practice to publish it on OBIS as well? | If your dataset is published to GBIF through the IPT, you can select OBIS in the Networks section of the IPT overview page. Additional adjustments may be needed to make the data OBIS-compliant. |
 | Is one advantage of flagging vs dropping a record that contributors can correct their data later? | Absolutely! The OBIS and GBIF both flag data to help contributors improve their data. |
-| How do classifications get updated as more sequences are added to databases? | The taxonomic assignment of sequences is done by the data provider.  OBIS will keep that classification up-to-date with WoRMS, but currently OBIS doesn't re-intepret the sequence. OBIS and GBIF are aware of the need/desire for this type of sequence curation and are working together to find solutions that keep the information up-to-date but keep the decision-making in the hands of the scientists providing the data. |
+| How do classifications get updated as more sequences are added to databases? | The taxonomic assignment of sequences is done by the data provider.  OBIS will keep that classification up-to-date with WoRMS, but currently OBIS doesn't re-interpret the sequence. OBIS and GBIF are aware of the need/desire for this type of sequence curation and are working together to find solutions that keep the information up-to-date but keep the decision-making in the hands of the scientists providing the data. |
 | If you find an error in your metadata or need to add information (e.g., depth), how do you update it? | Metadata can be updated at any time through the IPT. If the data itself changes, you can upload the updated file and republish the dataset, which creates a new version. |
 | If collections are published to GBIF using an RSS feed rather than IPT, are they automatically ingested by OBIS? | No, this is information that needs to be kept up to date by emailing the OBIS helpdesk (helpdesk@obis.org). This is equivalent to editing the [GBIF registry](https://registry.gbif.org/organization/search) for similar publishing endpoints. |
 | Is there a plan to one day include prokaryotes? | That day is today 😀. As long as you can assign your prokaryote to a kingdom it can be shared as such in OBIS. WoRMS doesn't have a domain level of classification, but they are aware of the challenges this can create with DNA data. |
