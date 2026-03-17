@@ -2,7 +2,7 @@
 layout: heroImage
 title: Publication parallèle sur GBIF et OBIS
 description: Webinaire GBIF Amérique du Nord
-lang: en
+lang: fr
 lang-ref: publishgbifobis
 background: assets/images/20240929_Boulegeade_Sphyraena_3.JPG
 imageLicense: Photo d'Emilie Boulanger, Parc national des Calanques à Marseille, 2024
