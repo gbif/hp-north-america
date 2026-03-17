@@ -2,7 +2,7 @@
 title:  "Webinar: Parallel Publishing to GBIF & OBIS"
 date:   2026-03-17
 categories: ["Regional Meeting"]
-lang: fr
+lang: en
 lang-ref: NA-Q1-webinar
 background: assets/images/20240929_Boulegeade_Sphyraena_3.JPG
 imageLicense: Photo by Emilie Boulanger, Calanques National Parc in Marseille, 2024
