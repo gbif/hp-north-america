@@ -32,7 +32,7 @@ Este seminario web se celebró el 12 de marzo de 2026 como primera parte de la R
 
 ## Presentaciones
 
-- [Bienvenida al seminario web y novedades de GBIF]](/assets/documents/Introduction&Overview_GBIFNAWebinar20260312.pdf) (.pdf)
+- [Bienvenida al seminario web y novedades de GBIF](/assets/documents/Introduction&Overview_GBIFNAWebinar20260312.pdf) (.pdf)
 - [Publicación simultánea en GBIF y OBI](/assets/documents/ParallelPublishing_GBIFNAWebinar20260312.pdf) (.pdf)
 
 ## Preguntas y respuestas
@@ -53,7 +53,7 @@ Las siguientes preguntas se plantearon en el chat del seminario web. Algunas de 
 | Si encuentra un error en sus metadatos o necesita añadir información (por ejemplo, la profundidad), ¿cómo se actualiza? | Los metadatos se pueden actualizar en cualquier momento a través del IPT. Si los datos en sí cambian, puede cargar el archivo actualizado y volver a publicar el conjunto de datos, lo que crea una nueva versión. |
 | Si las colecciones se publican en GBIF mediante un canal RSS en lugar de IPT, ¿las incorpora automáticamente OBIS? | No, esta información debe mantenerse actualizada enviando un correo electrónico al servicio de asistencia de OBIS (helpdesk@obis.org). Esto equivale a editar el [registro de GBIF](https://registry.gbif.org/organization/search) para puntos finales de publicación similares. |
 | ¿Hay planes para incluir algún día a los procariotas? | Ese día es hoy 😀. Siempre que puedas asignar tu procariota a un reino, se puede compartir como tal en OBIS. WoRMS no tiene un nivel de clasificación de dominio, pero son conscientes de los retos que esto puede plantear con los datos de ADN. |
-| Si soy editor en GBIF pero no tengo un IPT, ¿necesito convertirme en editor en OBIS? | Solo GBIF tiene «editores». Se trata de metadatos sobre el EML proporcionados por el Darwin Core Archive. OBIS analiza el EML del Darwin Core Archive para coordinar las organizaciones relacionadas con un conjunto de datos.  Sin embargo, OBIS también puede aprovechar [OceanExpert](https://oceanexpert.org/) para crear paneles de control organizativos similares a los paneles de control de editores creados por GBIF. Por ejemplo, US MBON: https://obis.org/organization/23070 |
+| Si soy editor en GBIF pero no tengo un IPT, ¿necesito convertirme en editor en OBIS? | Solo GBIF tiene «editores». Se trata de metadatos sobre el EML proporcionados por el Darwin Core Archive. OBIS analiza el EML del Darwin Core Archive para coordinar las organizaciones relacionadas con un conjunto de datos.  Sin embargo, OBIS también puede aprovechar [OceanExpert](https://oceanexpert.org/) para crear paneles de control organizativos similares a los paneles de control de editores creados por GBIF. Por ejemplo, [US MBON](https://obis.org/organization/23070) |
 | ¿La determinación de «marino» se basa en la taxonomía, las coordenadas o ambas? | Se trata estrictamente de una interpretación de la existencia de los taxones como marinos en la base de datos WoRMS. |
 
 ## Recursos de datos de OBIS
