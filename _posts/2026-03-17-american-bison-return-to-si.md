@@ -7,12 +7,11 @@ lang-ref: news-bison-return
 background: "{{site.data.images.AmericanBison.src}}"
 imageLicense: "{{site.data.images.AmericanBison.caption}}"
 ---
-
-**Excerpt from the Smithsonian News Desk**
-
 ## American Bison Return to the National Mall With New Exhibitions and Larger-Than-Life Bronze Sculptures at the National Museum of Natural History
 
 ### To Celebrate the Nation’s 250th Anniversary, the Museum Will Spotlight the Significance and Resilience of the National Mammal Throughout 2026
+
+**[Excerpt from the Smithsonian News Desk]**
 
 In 2026, the Smithsonian’s [National Museum of Natural History](https://naturalhistory.si.edu/) is celebrating all things American bison. Through a series of new exhibitions, displays and programming, the national mammal will take center stage on the National Mall to commemorate the 250th anniversary of the signing of the Declaration of Independence. 
 
