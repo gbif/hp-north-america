@@ -17,6 +17,6 @@ El 12 de marzo de 2026, GBIF Norteamérica organizó un seminario web en el que 
 - Identificar y aplicar las diferencias clave entre la publicación en GBIF y OBIS (¡con consejos de IPT!)
 - Encontrar herramientas para alinear tus taxones con WoRMS
 
-Si te lo perdiste, ¡no te preocupes! Puedes [ver el vídeo](LINK) cuando tengas tiempo. Las presentaciones, las preguntas y respuestas y un montón de recursos te están esperando.
+Si te lo perdiste, ¡no te preocupes! Puedes [ver el vídeo](https://www.gbif-north-america.org/es/publicargbifobis/) cuando tengas tiempo. Las presentaciones, las preguntas y respuestas y un montón de recursos te están esperando.
 
-¡Echa un vistazo a [los recursos y las grabaciones del seminario web](LINK)! ¡Ni tú ni tus datos marinos os arrepentiréis!
+¡Echa un vistazo a [los recursos y las grabaciones del seminario web](https://www.gbif-north-america.org/es/publicargbifobis/)! ¡Ni tú ni tus datos marinos os arrepentiréis!
