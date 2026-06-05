@@ -3,10 +3,9 @@ title:  "Webinar: Improving Data Quality at the Source: A Data Quality Toolkit f
 date:   2026-06-05
 categories: ["Regional Meeting"]
 lang: en
-lang-ref: NA-Q1-webinar
-background: assets/images/PC_GBIF%20NA%20Webinar%206-11-26-1%20(1).png 
+lang-ref: NA-Q2-webinar
+background: assets/images/PC_GBIF%20NA%20Webinar%206-11-26-1%20(1).png
 ---
-
 Ever wondered how you can improve your data quality? If you have, this GBIF North America webinar is for you! 
 
 Happening Soon! [Click Here to Register to Join](https://events.zoom.us/ev/Aqhr9vH7esHMJNIjuFWyzsj-O_0K0Nla13f3OYs0GNUmSdr-qY1K~ApozuhVigB_Ed_3AlP6blur3Uisvagw_4cNNBIodcwncMw3aEbNKDA9qQA) on 11 June 2026 as we explore the following:
