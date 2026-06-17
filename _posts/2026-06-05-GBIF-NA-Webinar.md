@@ -12,3 +12,5 @@ Happening Soon! [Click Here to Register to Join](https://events.zoom.us/ev/Aqhr9
 Biocollections data often suffer from data quality issues that arise from the complexities of the digitization and mobilization processes, and these data quality issues can prevent the data from reaching its full potential for research and educational impact. Some data quality issues are complex, others are relatively simple to identify and fix and can provide momentum for further improvements. In this webinar, we will discuss several categories of common data quality issues in biocollections datasets, and we will share a toolbox of data quality checks and fixes that can be easily deployed in collection management systems or spreadsheets.
 
 Hope to see you there!
+
+Missed it? We got you covered! View the recording and the materials here: https://www.gbif-north-america.org/dqwebinar
