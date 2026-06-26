@@ -5,7 +5,7 @@ categories: ["Regional Meeting"]
 lang-ref: NA-Q2-webinar
 background: assets/images/PC_GBIF%20NA%20Webinar%206-11-26-1%20(1).png
 ---
-Ever thought about what "data quality" even means or wondered what steps you need to take to improve the quality of your data? If you want to find out more and you missed the live webinar on 11 June 2026, please check out the recorded session.
+Ever thought about what "data quality" even means or wondered what steps you need to take to improve the quality of your data? If you want to find out more and you missed the live webinar on 11 June 2026, please check out the recorded session and additional resources here:
 
  [Click Here to View](https://www.gbif-north-america.org/dqwebinar)
  
