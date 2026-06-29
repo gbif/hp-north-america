@@ -2,7 +2,7 @@
 title: "Recruitment of Executive Secretary for GBIF" 
 date: 2026-05-27 
 categories: ["Announcement"] 
-background: https://api.gbif.org/v1/image/aY_uOJ5ikBUiKhSIeevvCgpEIj8=/1200x500/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FQbfs6MMueeDWJi9KjAHIr%2F2835e876192c785b5a162893d66569dd%2Fdirector-GBIF-v3-hero.png
+background: assets/images/PostImageRecruitmentExecSec.png
 imageLicense: Nova Regio(https://flic.kr/p/2sfzb8g) by Javier Gamboa. GBIF Secretariat, 2026. Licensed under [CC BY-NC 4.0.](https://creativecommons.org/licenses/by-nc/4.0/deed.en) View more [GBIF artwork](https://flic.kr/s/aHBqjCjm8p) in Flickr
 
 preTitle: May 01, 2026
