@@ -4,7 +4,7 @@ date:   2026-10-22
 time:   11:00–12:30 pm ET
 categories: ["Regional Meeting"]
 lang-ref: NA-Q3-webinar
-background: assets/images/GBIFWebinar2026-10-22.png
+background: assets/images/NA GBIF Webinar 10-22-26.png
 ---
 Ready to take your biodiversity data beyond simple occurrence records?
 
