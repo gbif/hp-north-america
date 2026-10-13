@@ -1,7 +1,6 @@
 ---
-title:  "Webinar: The Sampling Event Horizon: Lessons from the Publishing Frontier"
+title:  "Webinar: The Sampling Event Horizon: Lessons from the Publishing Frontier (11:00–12:30 pm ET)
 date:   2026-10-22
-time:   11:00–12:30 pm ET
 categories: ["Regional Meeting"]
 lang-ref: NA-Q3-webinar
 background: assets/images/NA%20GBIF%20Webinar%2010-22-26.png
