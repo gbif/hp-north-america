@@ -3,7 +3,7 @@ title:  "Webinar: The Sampling Event Horizon: Lessons from the Publishing Fronti
 date: 2026-10-13
 categories: ["Regional Meeting"]
 lang-ref: NA-Q3-webinar
-background: assets/images/NA%20GBIF%20Webinar%2010-22-26.png
+background: assets/images/Webinar_Oct2026GBIF_NA.png
 ---
 Ready to take your biodiversity data beyond simple occurrence records?
 
