@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: The Sampling Event Horizon Lessons from the Publishing Frontier
+title: The Sampling Event Horizon - Lessons from the Publishing Frontier
 description: A GBIF North America Webinar
 lang: en
 lang-ref: samplinghorizon
