@@ -12,7 +12,7 @@ toc: true
 
 ## Webinar: The Sampling Event Horizon: Lessons from the Publishing Frontier
 
-This webinar was presented on 22 October 2026 as the third part of the GBIF North America 2026 Nodes Meeting and Training.
+This webinar was presented on 22 October 2026, as the third part of the GBIF North America 2026 Nodes Meeting and Training.
  
 **Presenters:**
 - **Chandra Earl**, NEON Biorepository, Arizona State University
