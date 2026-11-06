@@ -15,11 +15,11 @@ toc: true
 This webinar was presented on 22 October 2026, as the third part of the GBIF North America 2026 Nodes Meeting and Training.
  
 **Presenters:**
-- **Chandra Earl**, NEON Biorepository, Arizona State University
-- **Zachary KachianS**, Field Museum of Natural History, Keller Science Action Center 
-- **Kate Webbink**, Field Museum of Natural History
-- **Kate Ingenloff**, GBIF
-- **Steven Formel**, OBIS Data Manager
+- **Chandra Earl**, NEON Biorepository, Arizona State University, Biodiversity Informatician
+- **Zachary KachianS**, Field Museum of Natural History, Keller Science Action Center, Sr. Data Management Specialist 
+- **Kate Webbink**, Field Museum of Natural History, Information Technology, Data Engineer
+- **Kate Ingenloff**, GBIF, Scientific Officer
+- **Steven Formel**, OBIS Secretariat, Data Officer
 
 **Topics covered:**
 - Shared lessons learned. 
