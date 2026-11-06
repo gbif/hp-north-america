@@ -4,8 +4,7 @@ title: The Sampling Event Horizon - Lessons from the Publishing Frontier
 description: A GBIF North America Webinar
 lang: en
 lang-ref: samplinghorizon
-background: assets/images/20240929_Boulegeade_Sphyraena_3.JPG
-imageLicense: Photo by Emilie Boulanger, Calanques National Parc in Marseille, 2024
+background: assets/images/Webinar_Oct2026GBIF_NA.png
 height: 70vh
 toc: true
 ---
@@ -42,7 +41,7 @@ The questions below were asked in the webinar chat. Some answers below have been
 
 | Question | Answer |
 |-----------|-------------|
-| What are the advantages or disadvantages to “sorting” your event by locality vs by protocol? When would a publisher choose to use one or the other (or maybe something else entirely)? | or us at the Field Museum, part of it was the effect it had on how well we could line up our protocols with the relevant occurrence datasets. (We use EMu, so we were aligning corresponding ‘Event’ & ‘Narrative’ records with Catalogue records) |
+| What are the advantages or disadvantages to “sorting” your event by locality vs by protocol? When would a publisher choose to use one or the other (or maybe something else entirely)? | for us at the Field Museum, part of it was the effect it had on how well we could line up our protocols with the relevant occurrence datasets. (We use EMu, so we were aligning corresponding ‘Event’ & ‘Narrative’ records with Catalogue records) |
 
 
 ## Data Resources
