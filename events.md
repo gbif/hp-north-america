@@ -17,9 +17,9 @@ Connecting minds. Sharing knowledge. Celebrating life. Together, we make biodive
 
 ## 2026 North America Regional Webinars
 
-## [The Sampling Event Horizon: Lessons from the Publishing Frontier](https://github.com/gbif/hp-north-america/blob/master/samplinghorizon.md?plain=1)
-## [Improving Data Quality at the Source: A Data Quality Toolkit for Biocollections](https://github.com/gbif/hp-north-america/blob/master/dqwebinar.md?plain=1)
-## [Parallel Publishing to GBIF & OBIS](https://github.com/gbif/hp-north-america/blob/master/publishgbifobis.md?plain=1)
+## [The Sampling Event Horizon: Lessons from the Publishing Frontier](https://www.gbif-north-america.org/samplinghorizon/)
+## [Improving Data Quality at the Source: A Data Quality Toolkit for Biocollections](https://www.gbif-north-america.org/dqwebinar/)
+## [Parallel Publishing to GBIF & OBIS](https://www.gbif-north-america.org/publishgbifobis/)
 
 
 Please contact the [NA Regional Helpdesk](mailto:gbif.na.helpdesk@gmail.com) if you would like to suggest an event. Be sure to provide us with the name of the event, location if in person or link if virtual, event dates, time and time zone, and URLs for any event information and registration locations.
