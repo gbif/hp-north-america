@@ -32,7 +32,9 @@ This webinar was presented on 22 October 2026, as the third part of the GBIF Nor
 
 ## Slide Decks
 
-- [Webinar Welcome and GBIF Updates](/assets/documents/Introduction&Overview_GBIFNAWebinar20260312.pdf) (.pdf)
+- [Sampling Events Slides - NEON](/assets/documents/Sampling Events Slides - NEON.pdf) (.pdf)
+- [Sampling Events Slides - Field Museum](/assets/documents/Sampling Events Slides - Field Museum.pdf) (.pdf)
+- [Sampling Events Slides - GBIF](/assets/documents/Sampling Events Slides - GBIF.pdf) (.pdf)
 - [Parallel Publishing to GBIF & OBIS](/assets/documents/ParallelPublishing_GBIFNAWebinar20260312.pdf) (.pdf)
 
 ## Q & A
