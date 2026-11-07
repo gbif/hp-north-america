@@ -21,10 +21,11 @@ This webinar was presented on 22 October 2026, as the third part of the GBIF Nor
 - **Steven Formel**, OBIS Secretariat, Data Officer
 
 **Topics covered:**
-- Shared lessons learned. 
-- Reflections on the changing protocol, bottlenecks and time savers. 
+- Shared lessons learned from working within more complex event-based data
+- Reflections on implementing new data models, challenges and time savers. 
 - Practical advice for planning new efforts or retrofitting legacy data into this structure.
-- Tools that exist to assist in publishing high-quality biodiversity data from a sampling context.
+- The long-term value of preserving sampling context for broader ecological analysis.
+- Resources that exist to assist in publishing high-quality biodiversity data from a sampling context.
 
 ## Webinar Video
 
@@ -42,7 +43,7 @@ Please review the slide decks for more links, information and tools.
 
 Guides
 - Good SAMaritansblog: (https://data-blog.gbif.org/tags/sam/)
-- Comprehensive guide: (https://doi.org/10.35035/doc-ynvs-eh84)
+- Comprehensive guide: (https://docs.gbif.org/guide-publishing-survey-data/en/)
 
 NEON Mapping Documents
 - Mapping NEON Survey Monitoring Data to the Humboldt Extension for Ecological Inventories: (https://biokic.github.io/NEONTickstoHumboldt) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
@@ -59,4 +60,5 @@ Extra, tangible GBIF examples - initial FMNH Rapid Inventory datasets:
 Other
 - For storing protocols: (protocol.io) 
 - Research Institute for Nature and Forest (INBO): (github.org/inbo)
+- https://www.gbif.org/sam
 
