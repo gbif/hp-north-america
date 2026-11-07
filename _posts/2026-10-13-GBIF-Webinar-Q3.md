@@ -14,4 +14,4 @@ In this panel, leaders and stalwart adventurers from the GBIF Secretariat and GB
 Please come with questions! After short talks from each panelist, we'll open up to a Q&A/panel discussion covering whatever the sampling event frontier throws at us.
 
 
-If you were unable to attend this amazing webinar in real time, check out the recording and other resources [here](https://github.com/gbif/hp-north-america/blob/master/samplinghorizon.md)
+If you were unable to attend this amazing webinar in real time, check out the recording and other resources [here](https://gbif/hp-north-america/samplinghorizon/)
