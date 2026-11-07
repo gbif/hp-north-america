@@ -36,16 +36,27 @@ This webinar was presented on 22 October 2026, as the third part of the GBIF Nor
 - [Sampling Events Slides - Field Museum](/assets/documents/SamplingEventsSlidesFieldMuseum.pdf) (.pdf)
 - [Sampling Events Slides - GBIF](/assets/documents/SamplingEventsSlidesGBIF.pdf) (.pdf)
 
-## Data Resources
+## Resources
 
 Please review the slide decks for more links, information and tools.
-- GBIF: https://biokic.github.io/NEONBirdstoHumboldt/
-- GBIF:	https://data-blog.gbif.org/tags/sam/](https://data-blog.gbif.org/post/sam-survey-protocol/)
-- NEON:	https://data-blog.gbif.org/tags/sam/
-- [extra, tangible GBIF examples - initial FMNH Rapid Inventory datasets:] (https://www.gbif.org/dataset/d70c3429-b5b5-404c-ba24-a768342b37aa/event/e40978cd-d0db-47fb-9987-6d8c7d7fe0ce) (https://www.gbif.org/dataset/d70c3429-b5b5-404c-ba24-a768342b37aa/event)
 
-### Tools
+Guides
+- Good SAMaritansblog: (https://data-blog.gbif.org/tags/sam/)
+- Comprehensive guide: (https://doi.org/10.35035/doc-ynvs-eh84)
 
-- [BioDataGuide](https://ioos.github.io/bio_data_guide/)
-- [OBIS Sequence Search](https://sequence.obis.org/)
-- [OBIS Distribution Maps](https://shiny.obis.org/distmaps/)
+NEON Mapping Documents
+- Mapping NEON Survey Monitoring Data to the Humboldt Extension for Ecological Inventories: (https://biokic.github.io/NEONTickstoHumboldt) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
+- Mapping NEON Bird Survey Monitoring Data to the Humboldt Extension for Ecological Inventories: (https://biokic.github.io/NEONBirdstoHumboldt/) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
+
+Templates: (https://github.com/gbif/surveys-and-monitoring/tree/master/Templates)
+
+Training: Biodiversity data mobilization course (https://training.gbif.org/en/data-mobilization/)
+
+Extra, tangible GBIF examples - initial FMNH Rapid Inventory datasets: 
+- (https://www.gbif.org/dataset/d70c3429-b5b5-404c-ba24-a768342b37aa/event/e40978cd-d0db-47fb-9987-6d8c7d7fe0ce)
+- (https://www.gbif.org/dataset/d70c3429-b5b5-404c-ba24-a768342b37aa/event)
+
+Other
+- For storing protocols: (protocol.io) 
+- Research Institute for Nature and Forest (INBO): (github.org/inbo)
+
