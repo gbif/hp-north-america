@@ -32,21 +32,12 @@ This webinar was presented on 22 October 2026, as the third part of the GBIF Nor
 
 ## Slide Decks
 
-- [Sampling Events Slides - NEON](/assets/documents/Sampling Events Slides - NEON.pdf) (.pdf)
-- [Sampling Events Slides - Field Museum](/assets/documents/Sampling Events Slides - Field Museum.pdf) (.pdf)
-- [Sampling Events Slides - GBIF](/assets/documents/Sampling Events Slides - GBIF.pdf) (.pdf)
-- [Parallel Publishing to GBIF & OBIS](/assets/documents/ParallelPublishing_GBIFNAWebinar20260312.pdf) (.pdf)
-
-## Q & A
-
-The questions below were asked in the webinar chat. Some answers below have been modified for accuracy and simplicity. Please watch the video for all of the juicy details.
-
-| Question | Answer |
-|-----------|-------------|
-| What are the advantages or disadvantages to “sorting” your event by locality vs by protocol? When would a publisher choose to use one or the other (or maybe something else entirely)? | for us at the Field Museum, part of it was the effect it had on how well we could line up our protocols with the relevant occurrence datasets. (We use EMu, so we were aligning corresponding ‘Event’ & ‘Narrative’ records with Catalogue records) |
-
+- [Sampling Events Slides - NEON](/assets/documents/SamplingEventsSlidesNEON.pdf) (.pdf)
+- [Sampling Events Slides - Field Museum](/assets/documents/SamplingEventsSlidesFieldMuseum.pdf) (.pdf)
+- [Sampling Events Slides - GBIF](/assets/documents/SamplingEventsSlidesGBIF.pdf) (.pdf)
 
 ## Data Resources
+
 Please review the slide decks for more links, information and tools.
 - GBIF: https://biokic.github.io/NEONBirdstoHumboldt/
 - GBIF:	https://data-blog.gbif.org/tags/sam/](https://data-blog.gbif.org/post/sam-survey-protocol/)
