@@ -45,9 +45,9 @@ Guides
 - Good SAMaritansblog: (https://data-blog.gbif.org/tags/sam/)
 - Comprehensive guide: (https://docs.gbif.org/guide-publishing-survey-data/en/)
 
-NEON Mapping Documents
-- Mapping NEON Survey Monitoring Data to the Humboldt Extension for Ecological Inventories: (https://biokic.github.io/NEONTickstoHumboldt) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
-- Mapping NEON Bird Survey Monitoring Data to the Humboldt Extension for Ecological Inventories: (https://biokic.github.io/NEONBirdstoHumboldt/) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
+NEON Mapping Documents for Survey Monitoring Data to the Humboldt Extension for Ecological Inventories: Ecological Inventories:
+- Tick dataset R markdown: (https://biokic.github.io/NEONTickstoHumboldt) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
+- Bird Survey Monitoring Data: (https://biokic.github.io/NEONBirdstoHumboldt/) & (https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f)
 
 Templates: (https://github.com/gbif/surveys-and-monitoring/tree/master/Templates)
 
