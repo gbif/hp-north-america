@@ -33,7 +33,7 @@ This webinar was presented on 22 October 2026, as the third part of the GBIF Nor
 
 ## Slide Decks
 
-- [Sampling Events Slides: NEON](assets/documents/SamplingEventSlidesNEON.pdf) (.pdf)
+- [Sampling Events Slides: NEON](/assets/documents/SamplingEventSlidesNEON.pdf) (.pdf)
 - [Sampling Events Slides: Field Museum](/assets/documents/SamplingEventSlidesFieldMuseum.pdf) (.pdf)
 - [Sampling Events Slides: GBIF](/assets/documents/SamplingEventSlidesGBIF.pdf) (.pdf)
 
