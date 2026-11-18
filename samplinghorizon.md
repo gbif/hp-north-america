@@ -29,7 +29,14 @@ This webinar was presented on 22 October 2026, as the third part of the GBIF Nor
 
 ## Webinar Video
 
-<iframe src="https://drive.google.com/file/d/1V5BoO4vnZdnGljf6rvt_JQ1WSxcIJygu/preview" width="640" height="480></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
+  <iframe 
+    src="https://drive.google.com/file/d/1V5BoO4vnZdnGljf6rvt_JQ1WSxcIJygu/view?usp=sharing" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allow="autoplay; fullscreen" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Slide Decks
 
